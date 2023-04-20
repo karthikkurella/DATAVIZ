@@ -104,7 +104,8 @@ d3.json(pathToJsonData)
     const filteredData = Object.values(contents).filter(d => {
       monthNum = monthNameToNum[selectedMonth];
       climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
-      return d.month === monthNum && d.climateIndicator === climateIndicatorValue});
+      return d.month === monthNum && d.climateIndicator === climateIndicatorValue}
+    );
     // console.log(filteredData);
 
     // change the x and y domains to fit the new data
