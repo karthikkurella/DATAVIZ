@@ -1,49 +1,12 @@
 // Define the path to the JSON file
-const pathToJsonData = '../rawData/seaIce_global_allMonths.json';
+const pathToJsonData = '../data/all_data.json';
 
 // Use D3 to load the JSON file
 d3.json(pathToJsonData)
 .then(contents => {
   // Print the initial contents of the JSON file to the console
-  console.log(contents);
+  // console.log(contents);
   
-  // Make it easier to access the relevant data from the file
-  const data = contents.data;
-
-  // Loop over each item in the object
-  for (var key in data) {
-    // Extract the year and month from the key
-    var year = key.substring(0, 4);
-    var month = key.substring(4, 6);
-
-    // Add the year, month, and date properties to the item
-    data[key].year = year;
-    data[key].month = month;
-    data[key].date = month + ' ' + year;
-
-    // Cleans invalid entries
-    // on seaIce_global_allMonths.json -9999 marks all invalid numerical values
-    if(data[key].value == -9999 || 
-      data[key].monthlyMean == -9999 ||
-      data[key].anom == -9999
-      ) {
-      data[key].value = 0;
-      data[key].monthlyMean = 0;
-      data[key].anom = 0;
-    }
-
-    if(data[key].value < 0) {
-      data[key].value = 0;
-    }
-
-    if(data[key].value < 0) {
-      data[key].value = 0;
-    }
-  }
-
-  // Print the modified contents of the JSON file to the console
-  console.log(data);
-
   // Create months to fill dropdown
   const months = [
     'January', 
@@ -90,6 +53,32 @@ d3.json(pathToJsonData)
     monthDropdown.property('selectedIndex', 0);
   }
 
+  // Create climate indicators to fill dropdown
+  const climateIndicators = [
+    'Sea Ice',
+    'Snow Cover'
+  ]
+
+  // Create a dictionary to easily convert from label to value format
+  const climateIndicatorLabelToValue = {
+    'Sea Ice'   : 'seaIce',
+    'Snow Cover': 'snowCover'
+  }
+
+  // Select the dropdown element and populate it with months
+  const climateIndicatorDropdown = d3.select('#climateIndicator-select');
+  climateIndicatorDropdown.selectAll('option')
+    .data(climateIndicators)
+    .enter()
+    .append('option')
+    .text(d => d)
+    .attr('value', d => d);
+
+  // Set the first dropdown option as the default (if there are options)
+  if (climateIndicatorDropdown.select('option').size() > 0) {
+    climateIndicatorDropdown.property('selectedIndex', 0);
+  }
+
   // Create the svg chart container element
   // This will hold the bars and axes for the barchart
   const margin = {top: 20, right: 20, bottom: 30, left: 50},
@@ -110,10 +99,13 @@ d3.json(pathToJsonData)
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   // Define the function to update the chart
-  function updateChart(selectedMonth) {
-    console.log(monthNameToNum[selectedMonth]);
+  function updateChart(selectedMonth, selectedClimateIndicator) {
     // Get new relevant data to plot based on new filter
-    const filteredData = Object.values(data).filter(d => d.month === monthNameToNum[selectedMonth]);
+    const filteredData = Object.values(contents).filter(d => {
+      monthNum = monthNameToNum[selectedMonth];
+      climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
+      return d.month === monthNum && d.climateIndicator === climateIndicatorValue});
+    // console.log(filteredData);
 
     // change the x and y domains to fit the new data
     x.domain(filteredData.map(d => d.year));
@@ -141,14 +133,23 @@ d3.json(pathToJsonData)
       .call(d3.axisLeft(y));
   }
 
-  // Initialize the chart with the default month
-  updateChart(monthDropdown.property('value'));
+  // Initialize the chart with the default month and indicator
+  updateChart(monthDropdown.property('value'), climateIndicatorDropdown.property('value'));
 
   // Add an event listener to the month selector dropdown
   // this makes it so when the dropdown values change the graph is updated
   monthDropdown.on('change', function() {
     const selectedMonth = d3.select(this).property('value');
-    updateChart(selectedMonth);
+    const selectedClimateIndicator = d3.select('#climateIndicator-select').property('value');
+    updateChart(selectedMonth, selectedClimateIndicator);
+  });
+
+  // Add an event listener to the climate indicator selector dropdown
+  // this makes it so when the dropdown values change the graph is updated
+  climateIndicatorDropdown.on('change', function() {
+    const selectedMonth = d3.select('#month-select').property('value');
+    const selectedClimateIndicator = d3.select(this).property('value');
+    updateChart(selectedMonth, selectedClimateIndicator);
   });
 })
 .catch(error => {
