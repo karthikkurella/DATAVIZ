@@ -100,10 +100,10 @@ d3.json(pathToJsonData)
 
   // Define the function to update the chart
   function updateChart(selectedMonth, selectedClimateIndicator) {
+    monthNum = monthNameToNum[selectedMonth];
+    climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
     // Get new relevant data to plot based on new filter
     const filteredData = Object.values(contents).filter(d => {
-      monthNum = monthNameToNum[selectedMonth];
-      climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
       return d.month === monthNum && d.climateIndicator === climateIndicatorValue}
     );
     // console.log(filteredData);
