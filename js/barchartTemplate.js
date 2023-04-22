@@ -65,7 +65,7 @@ d3.json(pathToJsonData)
     'Snow Cover': 'snowCover'
   }
 
-  // Select the dropdown element and populate it with months
+  // Select the dropdown element and populate it with climate indicators
   const climateIndicatorDropdown = d3.select('#climateIndicator-select');
   climateIndicatorDropdown.selectAll('option')
     .data(climateIndicators)
