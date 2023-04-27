@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body */
+
+    body {
+        background-color: #E2E2E2;
+    }
+
+/* Wrapper */
+
+    #wrapper {
+        width: 100%;
+        overflow-x: hidden; /* when content of container overflows, hide it */
+    }
+
+    /* .block1, .block2 {
+        display: inline-block;
+        width: 50%;
+    } */
+
+/* Page Divisions */
+
+    .half-page-left {
+        width: 50%;
+        float: left;
+        text-align: center;
+    }
+
+    .half-page-right {
+        width: 50%;
+        float: right;
+        text-align: center;
+    }
+
+    .two-thirds-page-left {
+        width: 60%;
+        float: left;
+    }
+
+    .one-third-page-right {
+        width: 40%;
+        float: right;
+    }
+
+/* Header */
+
+    header {
+        /* background-color: rgb(163, 163, 165); */
+        font-family: "bebas-neue", sans-serif;
+        color: #2B4C7F;
+        text-align: center;
+        padding: 200px;
+        padding-bottom: 50px;
+    }
+
+        header h1 {
+            font-weight: 400;
+            font-size: 125px;
+        }
+
+        header h2 {
+            font-weight: 200;
+            font-size: 90px;
+        }
+
+/* Navbar */
+    nav {
+        /* background-color: #c4c4c4; */
+        font-family: "bilo", sans-serif; 
+        font-size: 30px;  
+        text-align: center;
+        margin-left: 80px;
+    }
+
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+    }
+
+    nav li {
+        display: inline-block;
+        margin-right: 100px;
+    }
+
+    nav a {
+        color: #2B4C7F;
+        display: block;
+        padding: 20px;
+        text-decoration: none;
+    }
+
+    nav a:hover {
+        /* background-color: #FF9036; */
+        color: #FF9036;
+        font-weight: 700;
+    }
+
+/* Section 1 */
+    #section1 {
+        display: flex;
+        align-items: center;
+        /* background-color: rgb(168, 168, 168); */
+        padding: 300px;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+        #section1 h1 {
+            /* background-color: cadetblue; */
+            padding-top: 50px;
+            padding-bottom: 50px;
+            font-family: "arial", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+            font-size: 40px;
+        }
+
+        #section1 p {
+            /* background-color: blue; */
+            padding-left: 200px;
+            padding-right: 100px;
+            color: 2B4C7F;
+            float: right;
+            font-family: "bilo", sans-serif;
+            font-size: 35px;
+        }
+
+    .bar {
+        fill: #3F6AAC;
+    }
+    
+    .bar:hover {
+        fill: #FF9036;
+    }
+
+/* Section 2 */
+
+    #section2 {
+        /* background-color: orange; */
+        padding: 300px;
+        padding-top: 200px;
+        display: flex;
+        align-items: center;
+    }
+
+        #section2 .selection-menu {
+            align-self: flex-start;
+            padding-top: 200px;
+            padding-left: 100px;
+        }
+
+/* Section 3 */
+
+    #section3 {
+        /* background-color: pink; */
+        padding: 300px;
+        text-align: center;
+    }
+
+    #section3 h1 {
+        /* background-color: cadetblue; */
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-family: "arial", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 40px;
+    }
+
+/* Section 4 */
+
+    /* #section4 {
+        background-color: paleturquoise;
+    } */
+
+    #time-series {
+        display: flex;
+        align-items: center;
+    }
+
+    #iceberg-slider {
+        text-align: center;
+        padding: 200px;
+    }
+
+/* Labels */
+
+/* Select */
+    /* Selection Menu */
+        .selection-menu {
+            display: flex;
+            justify-content: left;
+            margin-left: 20px;
+            margin-top: 20px;
+        }
+
+    /* Buttons */
+        .dropdown select {
+            padding: 10px;
+            border-radius: 15px;
+            border: 1px solid white;
+            font-size: 16px;
+            color: #555;
+            appearance: none;
+            background-color: white;    
+            margin-right: 20px;
+        }
+
+        .dropdown select:hover {
+            background-color: #3F6AAC;
+            color: white;
+            border: #3F6AAC;
+        }
+    
+    /* Slider */
+
+/* Footer */
+        footer {
+            text-align: center;
+            padding: 300px;
+        }

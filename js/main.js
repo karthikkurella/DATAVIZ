@@ -65,7 +65,7 @@ d3.json(pathToJsonData)
     'Snow Cover': 'snowCover'
   }
 
-  // Select the dropdown element and populate it with climate indicators
+  // Select the dropdown element and populate it with months
   const climateIndicatorDropdown = d3.select('#climateIndicator-select');
   climateIndicatorDropdown.selectAll('option')
     .data(climateIndicators)
@@ -82,12 +82,12 @@ d3.json(pathToJsonData)
   // Create the svg chart container element
   // This will hold the bars and axes for the barchart
   const margin = {top: 20, right: 20, bottom: 30, left: 50},
-  width = 1750 - margin.left - margin.right,
-  height = 750 - margin.top - margin.bottom;
+  width = 960 - margin.left - margin.right,
+  height = 500 - margin.top - margin.bottom;
 
   const x = d3.scaleBand()
     .range([0, width])
-    .padding(0.25);
+    .padding(0.1);
 
   const y = d3.scaleLinear()
     .range([height, 0]);
@@ -100,10 +100,10 @@ d3.json(pathToJsonData)
 
   // Define the function to update the chart
   function updateChart(selectedMonth, selectedClimateIndicator) {
-    monthNum = monthNameToNum[selectedMonth];
-    climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
     // Get new relevant data to plot based on new filter
     const filteredData = Object.values(contents).filter(d => {
+      monthNum = monthNameToNum[selectedMonth];
+      climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
       return d.month === monthNum && d.climateIndicator === climateIndicatorValue}
     );
     // console.log(filteredData);

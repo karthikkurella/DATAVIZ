@@ -1,0 +1,129 @@
+/* WEB PAGE STYLING */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #E2E2E2;
+}
+
+.center {
+    border: 2px solid blue;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    width: 20%;
+}
+
+h1, h2 {
+    font-family: "bebas-neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #2B4C7F;
+    text-align: center;
+}
+  
+h1 {
+    font-size: 100px;
+    padding-top: 100px;
+}
+
+h2 {
+    padding-bottom: 100px;
+}
+
+p {
+    font-family: "bilo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+#paragraph1 {
+    text-align: left;
+}
+
+/* LINE CHART STYLING */
+#line-chart-complex {
+    margin: 0 auto;
+    width: 27%;
+}
+
+#line-chart {
+    display: flex;
+    justify-content: left;
+}
+
+#btnPrevious {
+    float:left;
+}
+
+#spanStage {
+    font-weight:bold;
+    vertical-align:middle;    
+}
+#btnNext {
+    float:right;
+}
+
+.dropdown {
+    display: flex;
+    /* justify-content: left; */
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+/* DROPDOWN BUTTON STYLING */
+.dropdown select {
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    /* width: 200px; */
+    font-size: 16px;
+    color: #555;
+    appearance: none; /* Remove default appearance of select element */
+    background-color: #fff;
+    background-repeat: no-repeat;
+    /* background-position: right center; */
+}
+
+.dropdown select:hover {
+    background-color: #3F6AAC;
+    color: white;
+}
+
+/* .dropdown:hover {
+    background-color: #3F6AAC;
+    color: white;
+} */
+
+/* Style the dropdown options */
+.dropdown option {
+    background-color: #fff;
+    color: #555;
+    font-size: 16px;
+}
+
+/* Style the hover effect for dropdown options */
+/* .dropdown option:hover {
+    background-color: #3F6AAC;
+    color: white;
+} */
+  
+/* .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
+
+/* BAR CHART STYLING */
+.bar {
+    fill: #3F6AAC;
+}
+
+.bar:hover {
+    fill: #FF9036;
+}
