@@ -9545,7 +9545,7 @@
     "monthlyMean": 5.04,
     "year": "1979",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197902_seaIce_southernHemisphere_allMonths": {
@@ -9554,7 +9554,7 @@
     "monthlyMean": 3.09,
     "year": "1979",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197903_seaIce_southernHemisphere_allMonths": {
@@ -9563,7 +9563,7 @@
     "monthlyMean": 4.08,
     "year": "1979",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197904_seaIce_southernHemisphere_allMonths": {
@@ -9572,7 +9572,7 @@
     "monthlyMean": 6.95,
     "year": "1979",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197905_seaIce_southernHemisphere_allMonths": {
@@ -9581,7 +9581,7 @@
     "monthlyMean": 10.29,
     "year": "1979",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197906_seaIce_southernHemisphere_allMonths": {
@@ -9590,7 +9590,7 @@
     "monthlyMean": 13.46,
     "year": "1979",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197907_seaIce_southernHemisphere_allMonths": {
@@ -9599,7 +9599,7 @@
     "monthlyMean": 16.07,
     "year": "1979",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197908_seaIce_southernHemisphere_allMonths": {
@@ -9608,7 +9608,7 @@
     "monthlyMean": 17.84,
     "year": "1979",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197909_seaIce_southernHemisphere_allMonths": {
@@ -9617,7 +9617,7 @@
     "monthlyMean": 18.61,
     "year": "1979",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197910_seaIce_southernHemisphere_allMonths": {
@@ -9626,7 +9626,7 @@
     "monthlyMean": 18.23,
     "year": "1979",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197911_seaIce_southernHemisphere_allMonths": {
@@ -9635,7 +9635,7 @@
     "monthlyMean": 15.87,
     "year": "1979",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "197912_seaIce_southernHemisphere_allMonths": {
@@ -9644,7 +9644,7 @@
     "monthlyMean": 10.4,
     "year": "1979",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198001_seaIce_southernHemisphere_allMonths": {
@@ -9653,7 +9653,7 @@
     "monthlyMean": 5.04,
     "year": "1980",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198002_seaIce_southernHemisphere_allMonths": {
@@ -9662,7 +9662,7 @@
     "monthlyMean": 3.09,
     "year": "1980",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198003_seaIce_southernHemisphere_allMonths": {
@@ -9671,7 +9671,7 @@
     "monthlyMean": 4.08,
     "year": "1980",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198004_seaIce_southernHemisphere_allMonths": {
@@ -9680,7 +9680,7 @@
     "monthlyMean": 6.95,
     "year": "1980",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198005_seaIce_southernHemisphere_allMonths": {
@@ -9689,7 +9689,7 @@
     "monthlyMean": 10.29,
     "year": "1980",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198006_seaIce_southernHemisphere_allMonths": {
@@ -9698,7 +9698,7 @@
     "monthlyMean": 13.46,
     "year": "1980",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198007_seaIce_southernHemisphere_allMonths": {
@@ -9707,7 +9707,7 @@
     "monthlyMean": 16.07,
     "year": "1980",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198008_seaIce_southernHemisphere_allMonths": {
@@ -9716,7 +9716,7 @@
     "monthlyMean": 17.84,
     "year": "1980",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198009_seaIce_southernHemisphere_allMonths": {
@@ -9725,7 +9725,7 @@
     "monthlyMean": 18.61,
     "year": "1980",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198010_seaIce_southernHemisphere_allMonths": {
@@ -9734,7 +9734,7 @@
     "monthlyMean": 18.23,
     "year": "1980",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198011_seaIce_southernHemisphere_allMonths": {
@@ -9743,7 +9743,7 @@
     "monthlyMean": 15.87,
     "year": "1980",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198012_seaIce_southernHemisphere_allMonths": {
@@ -9752,7 +9752,7 @@
     "monthlyMean": 10.4,
     "year": "1980",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198101_seaIce_southernHemisphere_allMonths": {
@@ -9761,7 +9761,7 @@
     "monthlyMean": 5.04,
     "year": "1981",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198102_seaIce_southernHemisphere_allMonths": {
@@ -9770,7 +9770,7 @@
     "monthlyMean": 3.09,
     "year": "1981",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198103_seaIce_southernHemisphere_allMonths": {
@@ -9779,7 +9779,7 @@
     "monthlyMean": 4.08,
     "year": "1981",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198104_seaIce_southernHemisphere_allMonths": {
@@ -9788,7 +9788,7 @@
     "monthlyMean": 6.95,
     "year": "1981",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198105_seaIce_southernHemisphere_allMonths": {
@@ -9797,7 +9797,7 @@
     "monthlyMean": 10.29,
     "year": "1981",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198106_seaIce_southernHemisphere_allMonths": {
@@ -9806,7 +9806,7 @@
     "monthlyMean": 13.46,
     "year": "1981",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198107_seaIce_southernHemisphere_allMonths": {
@@ -9815,7 +9815,7 @@
     "monthlyMean": 16.07,
     "year": "1981",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198108_seaIce_southernHemisphere_allMonths": {
@@ -9824,7 +9824,7 @@
     "monthlyMean": 17.84,
     "year": "1981",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198109_seaIce_southernHemisphere_allMonths": {
@@ -9833,7 +9833,7 @@
     "monthlyMean": 18.61,
     "year": "1981",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198110_seaIce_southernHemisphere_allMonths": {
@@ -9842,7 +9842,7 @@
     "monthlyMean": 18.23,
     "year": "1981",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198111_seaIce_southernHemisphere_allMonths": {
@@ -9851,7 +9851,7 @@
     "monthlyMean": 15.87,
     "year": "1981",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198112_seaIce_southernHemisphere_allMonths": {
@@ -9860,7 +9860,7 @@
     "monthlyMean": 10.4,
     "year": "1981",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198201_seaIce_southernHemisphere_allMonths": {
@@ -9869,7 +9869,7 @@
     "monthlyMean": 5.04,
     "year": "1982",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198202_seaIce_southernHemisphere_allMonths": {
@@ -9878,7 +9878,7 @@
     "monthlyMean": 3.09,
     "year": "1982",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198203_seaIce_southernHemisphere_allMonths": {
@@ -9887,7 +9887,7 @@
     "monthlyMean": 4.08,
     "year": "1982",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198204_seaIce_southernHemisphere_allMonths": {
@@ -9896,7 +9896,7 @@
     "monthlyMean": 6.95,
     "year": "1982",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198205_seaIce_southernHemisphere_allMonths": {
@@ -9905,7 +9905,7 @@
     "monthlyMean": 10.29,
     "year": "1982",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198206_seaIce_southernHemisphere_allMonths": {
@@ -9914,7 +9914,7 @@
     "monthlyMean": 13.46,
     "year": "1982",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198207_seaIce_southernHemisphere_allMonths": {
@@ -9923,7 +9923,7 @@
     "monthlyMean": 16.07,
     "year": "1982",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198208_seaIce_southernHemisphere_allMonths": {
@@ -9932,7 +9932,7 @@
     "monthlyMean": 17.84,
     "year": "1982",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198209_seaIce_southernHemisphere_allMonths": {
@@ -9941,7 +9941,7 @@
     "monthlyMean": 18.61,
     "year": "1982",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198210_seaIce_southernHemisphere_allMonths": {
@@ -9950,7 +9950,7 @@
     "monthlyMean": 18.23,
     "year": "1982",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198211_seaIce_southernHemisphere_allMonths": {
@@ -9959,7 +9959,7 @@
     "monthlyMean": 15.87,
     "year": "1982",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198212_seaIce_southernHemisphere_allMonths": {
@@ -9968,7 +9968,7 @@
     "monthlyMean": 10.4,
     "year": "1982",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198301_seaIce_southernHemisphere_allMonths": {
@@ -9977,7 +9977,7 @@
     "monthlyMean": 5.04,
     "year": "1983",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198302_seaIce_southernHemisphere_allMonths": {
@@ -9986,7 +9986,7 @@
     "monthlyMean": 3.09,
     "year": "1983",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198303_seaIce_southernHemisphere_allMonths": {
@@ -9995,7 +9995,7 @@
     "monthlyMean": 4.08,
     "year": "1983",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198304_seaIce_southernHemisphere_allMonths": {
@@ -10004,7 +10004,7 @@
     "monthlyMean": 6.95,
     "year": "1983",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198305_seaIce_southernHemisphere_allMonths": {
@@ -10013,7 +10013,7 @@
     "monthlyMean": 10.29,
     "year": "1983",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198306_seaIce_southernHemisphere_allMonths": {
@@ -10022,7 +10022,7 @@
     "monthlyMean": 13.46,
     "year": "1983",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198307_seaIce_southernHemisphere_allMonths": {
@@ -10031,7 +10031,7 @@
     "monthlyMean": 16.07,
     "year": "1983",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198308_seaIce_southernHemisphere_allMonths": {
@@ -10040,7 +10040,7 @@
     "monthlyMean": 17.84,
     "year": "1983",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198309_seaIce_southernHemisphere_allMonths": {
@@ -10049,7 +10049,7 @@
     "monthlyMean": 18.61,
     "year": "1983",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198310_seaIce_southernHemisphere_allMonths": {
@@ -10058,7 +10058,7 @@
     "monthlyMean": 18.23,
     "year": "1983",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198311_seaIce_southernHemisphere_allMonths": {
@@ -10067,7 +10067,7 @@
     "monthlyMean": 15.87,
     "year": "1983",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198312_seaIce_southernHemisphere_allMonths": {
@@ -10076,7 +10076,7 @@
     "monthlyMean": 10.4,
     "year": "1983",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198401_seaIce_southernHemisphere_allMonths": {
@@ -10085,7 +10085,7 @@
     "monthlyMean": 5.04,
     "year": "1984",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198402_seaIce_southernHemisphere_allMonths": {
@@ -10094,7 +10094,7 @@
     "monthlyMean": 3.09,
     "year": "1984",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198403_seaIce_southernHemisphere_allMonths": {
@@ -10103,7 +10103,7 @@
     "monthlyMean": 4.08,
     "year": "1984",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198404_seaIce_southernHemisphere_allMonths": {
@@ -10112,7 +10112,7 @@
     "monthlyMean": 6.95,
     "year": "1984",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198405_seaIce_southernHemisphere_allMonths": {
@@ -10121,7 +10121,7 @@
     "monthlyMean": 10.29,
     "year": "1984",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198406_seaIce_southernHemisphere_allMonths": {
@@ -10130,7 +10130,7 @@
     "monthlyMean": 13.46,
     "year": "1984",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198407_seaIce_southernHemisphere_allMonths": {
@@ -10139,7 +10139,7 @@
     "monthlyMean": 16.07,
     "year": "1984",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198408_seaIce_southernHemisphere_allMonths": {
@@ -10148,7 +10148,7 @@
     "monthlyMean": 17.84,
     "year": "1984",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198409_seaIce_southernHemisphere_allMonths": {
@@ -10157,7 +10157,7 @@
     "monthlyMean": 18.61,
     "year": "1984",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198410_seaIce_southernHemisphere_allMonths": {
@@ -10166,7 +10166,7 @@
     "monthlyMean": 18.23,
     "year": "1984",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198411_seaIce_southernHemisphere_allMonths": {
@@ -10175,7 +10175,7 @@
     "monthlyMean": 15.87,
     "year": "1984",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198412_seaIce_southernHemisphere_allMonths": {
@@ -10184,7 +10184,7 @@
     "monthlyMean": 10.4,
     "year": "1984",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198501_seaIce_southernHemisphere_allMonths": {
@@ -10193,7 +10193,7 @@
     "monthlyMean": 5.04,
     "year": "1985",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198502_seaIce_southernHemisphere_allMonths": {
@@ -10202,7 +10202,7 @@
     "monthlyMean": 3.09,
     "year": "1985",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198503_seaIce_southernHemisphere_allMonths": {
@@ -10211,7 +10211,7 @@
     "monthlyMean": 4.08,
     "year": "1985",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198504_seaIce_southernHemisphere_allMonths": {
@@ -10220,7 +10220,7 @@
     "monthlyMean": 6.95,
     "year": "1985",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198505_seaIce_southernHemisphere_allMonths": {
@@ -10229,7 +10229,7 @@
     "monthlyMean": 10.29,
     "year": "1985",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198506_seaIce_southernHemisphere_allMonths": {
@@ -10238,7 +10238,7 @@
     "monthlyMean": 13.46,
     "year": "1985",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198507_seaIce_southernHemisphere_allMonths": {
@@ -10247,7 +10247,7 @@
     "monthlyMean": 16.07,
     "year": "1985",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198508_seaIce_southernHemisphere_allMonths": {
@@ -10256,7 +10256,7 @@
     "monthlyMean": 17.84,
     "year": "1985",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198509_seaIce_southernHemisphere_allMonths": {
@@ -10265,7 +10265,7 @@
     "monthlyMean": 18.61,
     "year": "1985",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198510_seaIce_southernHemisphere_allMonths": {
@@ -10274,7 +10274,7 @@
     "monthlyMean": 18.23,
     "year": "1985",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198511_seaIce_southernHemisphere_allMonths": {
@@ -10283,7 +10283,7 @@
     "monthlyMean": 15.87,
     "year": "1985",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198512_seaIce_southernHemisphere_allMonths": {
@@ -10292,7 +10292,7 @@
     "monthlyMean": 10.4,
     "year": "1985",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198601_seaIce_southernHemisphere_allMonths": {
@@ -10301,7 +10301,7 @@
     "monthlyMean": 5.04,
     "year": "1986",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198602_seaIce_southernHemisphere_allMonths": {
@@ -10310,7 +10310,7 @@
     "monthlyMean": 3.09,
     "year": "1986",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198603_seaIce_southernHemisphere_allMonths": {
@@ -10319,7 +10319,7 @@
     "monthlyMean": 4.08,
     "year": "1986",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198604_seaIce_southernHemisphere_allMonths": {
@@ -10328,7 +10328,7 @@
     "monthlyMean": 6.95,
     "year": "1986",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198605_seaIce_southernHemisphere_allMonths": {
@@ -10337,7 +10337,7 @@
     "monthlyMean": 10.29,
     "year": "1986",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198606_seaIce_southernHemisphere_allMonths": {
@@ -10346,7 +10346,7 @@
     "monthlyMean": 13.46,
     "year": "1986",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198607_seaIce_southernHemisphere_allMonths": {
@@ -10355,7 +10355,7 @@
     "monthlyMean": 16.07,
     "year": "1986",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198608_seaIce_southernHemisphere_allMonths": {
@@ -10364,7 +10364,7 @@
     "monthlyMean": 17.84,
     "year": "1986",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198609_seaIce_southernHemisphere_allMonths": {
@@ -10373,7 +10373,7 @@
     "monthlyMean": 18.61,
     "year": "1986",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198610_seaIce_southernHemisphere_allMonths": {
@@ -10382,7 +10382,7 @@
     "monthlyMean": 18.23,
     "year": "1986",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198611_seaIce_southernHemisphere_allMonths": {
@@ -10391,7 +10391,7 @@
     "monthlyMean": 15.87,
     "year": "1986",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198612_seaIce_southernHemisphere_allMonths": {
@@ -10400,7 +10400,7 @@
     "monthlyMean": 10.4,
     "year": "1986",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198701_seaIce_southernHemisphere_allMonths": {
@@ -10409,7 +10409,7 @@
     "monthlyMean": 5.04,
     "year": "1987",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198702_seaIce_southernHemisphere_allMonths": {
@@ -10418,7 +10418,7 @@
     "monthlyMean": 3.09,
     "year": "1987",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198703_seaIce_southernHemisphere_allMonths": {
@@ -10427,7 +10427,7 @@
     "monthlyMean": 4.08,
     "year": "1987",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198704_seaIce_southernHemisphere_allMonths": {
@@ -10436,7 +10436,7 @@
     "monthlyMean": 6.95,
     "year": "1987",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198705_seaIce_southernHemisphere_allMonths": {
@@ -10445,7 +10445,7 @@
     "monthlyMean": 10.29,
     "year": "1987",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198706_seaIce_southernHemisphere_allMonths": {
@@ -10454,7 +10454,7 @@
     "monthlyMean": 13.46,
     "year": "1987",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198707_seaIce_southernHemisphere_allMonths": {
@@ -10463,7 +10463,7 @@
     "monthlyMean": 16.07,
     "year": "1987",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198708_seaIce_southernHemisphere_allMonths": {
@@ -10472,7 +10472,7 @@
     "monthlyMean": 17.84,
     "year": "1987",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198709_seaIce_southernHemisphere_allMonths": {
@@ -10481,7 +10481,7 @@
     "monthlyMean": 18.61,
     "year": "1987",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198710_seaIce_southernHemisphere_allMonths": {
@@ -10490,7 +10490,7 @@
     "monthlyMean": 18.23,
     "year": "1987",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198711_seaIce_southernHemisphere_allMonths": {
@@ -10499,7 +10499,7 @@
     "monthlyMean": 15.87,
     "year": "1987",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198712_seaIce_southernHemisphere_allMonths": {
@@ -10508,7 +10508,7 @@
     "monthlyMean": 0,
     "year": "1987",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198801_seaIce_southernHemisphere_allMonths": {
@@ -10517,7 +10517,7 @@
     "monthlyMean": 0,
     "year": "1988",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198802_seaIce_southernHemisphere_allMonths": {
@@ -10526,7 +10526,7 @@
     "monthlyMean": 3.09,
     "year": "1988",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198803_seaIce_southernHemisphere_allMonths": {
@@ -10535,7 +10535,7 @@
     "monthlyMean": 4.08,
     "year": "1988",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198804_seaIce_southernHemisphere_allMonths": {
@@ -10544,7 +10544,7 @@
     "monthlyMean": 6.95,
     "year": "1988",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198805_seaIce_southernHemisphere_allMonths": {
@@ -10553,7 +10553,7 @@
     "monthlyMean": 10.29,
     "year": "1988",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198806_seaIce_southernHemisphere_allMonths": {
@@ -10562,7 +10562,7 @@
     "monthlyMean": 13.46,
     "year": "1988",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198807_seaIce_southernHemisphere_allMonths": {
@@ -10571,7 +10571,7 @@
     "monthlyMean": 16.07,
     "year": "1988",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198808_seaIce_southernHemisphere_allMonths": {
@@ -10580,7 +10580,7 @@
     "monthlyMean": 17.84,
     "year": "1988",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198809_seaIce_southernHemisphere_allMonths": {
@@ -10589,7 +10589,7 @@
     "monthlyMean": 18.61,
     "year": "1988",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198810_seaIce_southernHemisphere_allMonths": {
@@ -10598,7 +10598,7 @@
     "monthlyMean": 18.23,
     "year": "1988",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198811_seaIce_southernHemisphere_allMonths": {
@@ -10607,7 +10607,7 @@
     "monthlyMean": 15.87,
     "year": "1988",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198812_seaIce_southernHemisphere_allMonths": {
@@ -10616,7 +10616,7 @@
     "monthlyMean": 10.4,
     "year": "1988",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198901_seaIce_southernHemisphere_allMonths": {
@@ -10625,7 +10625,7 @@
     "monthlyMean": 5.04,
     "year": "1989",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198902_seaIce_southernHemisphere_allMonths": {
@@ -10634,7 +10634,7 @@
     "monthlyMean": 3.09,
     "year": "1989",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198903_seaIce_southernHemisphere_allMonths": {
@@ -10643,7 +10643,7 @@
     "monthlyMean": 4.08,
     "year": "1989",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198904_seaIce_southernHemisphere_allMonths": {
@@ -10652,7 +10652,7 @@
     "monthlyMean": 6.95,
     "year": "1989",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198905_seaIce_southernHemisphere_allMonths": {
@@ -10661,7 +10661,7 @@
     "monthlyMean": 10.29,
     "year": "1989",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198906_seaIce_southernHemisphere_allMonths": {
@@ -10670,7 +10670,7 @@
     "monthlyMean": 13.46,
     "year": "1989",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198907_seaIce_southernHemisphere_allMonths": {
@@ -10679,7 +10679,7 @@
     "monthlyMean": 16.07,
     "year": "1989",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198908_seaIce_southernHemisphere_allMonths": {
@@ -10688,7 +10688,7 @@
     "monthlyMean": 17.84,
     "year": "1989",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198909_seaIce_southernHemisphere_allMonths": {
@@ -10697,7 +10697,7 @@
     "monthlyMean": 18.61,
     "year": "1989",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198910_seaIce_southernHemisphere_allMonths": {
@@ -10706,7 +10706,7 @@
     "monthlyMean": 18.23,
     "year": "1989",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198911_seaIce_southernHemisphere_allMonths": {
@@ -10715,7 +10715,7 @@
     "monthlyMean": 15.87,
     "year": "1989",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "198912_seaIce_southernHemisphere_allMonths": {
@@ -10724,7 +10724,7 @@
     "monthlyMean": 10.4,
     "year": "1989",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199001_seaIce_southernHemisphere_allMonths": {
@@ -10733,7 +10733,7 @@
     "monthlyMean": 5.04,
     "year": "1990",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199002_seaIce_southernHemisphere_allMonths": {
@@ -10742,7 +10742,7 @@
     "monthlyMean": 3.09,
     "year": "1990",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199003_seaIce_southernHemisphere_allMonths": {
@@ -10751,7 +10751,7 @@
     "monthlyMean": 4.08,
     "year": "1990",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199004_seaIce_southernHemisphere_allMonths": {
@@ -10760,7 +10760,7 @@
     "monthlyMean": 6.95,
     "year": "1990",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199005_seaIce_southernHemisphere_allMonths": {
@@ -10769,7 +10769,7 @@
     "monthlyMean": 10.29,
     "year": "1990",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199006_seaIce_southernHemisphere_allMonths": {
@@ -10778,7 +10778,7 @@
     "monthlyMean": 13.46,
     "year": "1990",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199007_seaIce_southernHemisphere_allMonths": {
@@ -10787,7 +10787,7 @@
     "monthlyMean": 16.07,
     "year": "1990",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199008_seaIce_southernHemisphere_allMonths": {
@@ -10796,7 +10796,7 @@
     "monthlyMean": 17.84,
     "year": "1990",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199009_seaIce_southernHemisphere_allMonths": {
@@ -10805,7 +10805,7 @@
     "monthlyMean": 18.61,
     "year": "1990",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199010_seaIce_southernHemisphere_allMonths": {
@@ -10814,7 +10814,7 @@
     "monthlyMean": 18.23,
     "year": "1990",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199011_seaIce_southernHemisphere_allMonths": {
@@ -10823,7 +10823,7 @@
     "monthlyMean": 15.87,
     "year": "1990",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199012_seaIce_southernHemisphere_allMonths": {
@@ -10832,7 +10832,7 @@
     "monthlyMean": 10.4,
     "year": "1990",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199101_seaIce_southernHemisphere_allMonths": {
@@ -10841,7 +10841,7 @@
     "monthlyMean": 5.04,
     "year": "1991",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199102_seaIce_southernHemisphere_allMonths": {
@@ -10850,7 +10850,7 @@
     "monthlyMean": 3.09,
     "year": "1991",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199103_seaIce_southernHemisphere_allMonths": {
@@ -10859,7 +10859,7 @@
     "monthlyMean": 4.08,
     "year": "1991",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199104_seaIce_southernHemisphere_allMonths": {
@@ -10868,7 +10868,7 @@
     "monthlyMean": 6.95,
     "year": "1991",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199105_seaIce_southernHemisphere_allMonths": {
@@ -10877,7 +10877,7 @@
     "monthlyMean": 10.29,
     "year": "1991",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199106_seaIce_southernHemisphere_allMonths": {
@@ -10886,7 +10886,7 @@
     "monthlyMean": 13.46,
     "year": "1991",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199107_seaIce_southernHemisphere_allMonths": {
@@ -10895,7 +10895,7 @@
     "monthlyMean": 16.07,
     "year": "1991",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199108_seaIce_southernHemisphere_allMonths": {
@@ -10904,7 +10904,7 @@
     "monthlyMean": 17.84,
     "year": "1991",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199109_seaIce_southernHemisphere_allMonths": {
@@ -10913,7 +10913,7 @@
     "monthlyMean": 18.61,
     "year": "1991",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199110_seaIce_southernHemisphere_allMonths": {
@@ -10922,7 +10922,7 @@
     "monthlyMean": 18.23,
     "year": "1991",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199111_seaIce_southernHemisphere_allMonths": {
@@ -10931,7 +10931,7 @@
     "monthlyMean": 15.87,
     "year": "1991",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199112_seaIce_southernHemisphere_allMonths": {
@@ -10940,7 +10940,7 @@
     "monthlyMean": 10.4,
     "year": "1991",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199201_seaIce_southernHemisphere_allMonths": {
@@ -10949,7 +10949,7 @@
     "monthlyMean": 5.04,
     "year": "1992",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199202_seaIce_southernHemisphere_allMonths": {
@@ -10958,7 +10958,7 @@
     "monthlyMean": 3.09,
     "year": "1992",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199203_seaIce_southernHemisphere_allMonths": {
@@ -10967,7 +10967,7 @@
     "monthlyMean": 4.08,
     "year": "1992",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199204_seaIce_southernHemisphere_allMonths": {
@@ -10976,7 +10976,7 @@
     "monthlyMean": 6.95,
     "year": "1992",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199205_seaIce_southernHemisphere_allMonths": {
@@ -10985,7 +10985,7 @@
     "monthlyMean": 10.29,
     "year": "1992",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199206_seaIce_southernHemisphere_allMonths": {
@@ -10994,7 +10994,7 @@
     "monthlyMean": 13.46,
     "year": "1992",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199207_seaIce_southernHemisphere_allMonths": {
@@ -11003,7 +11003,7 @@
     "monthlyMean": 16.07,
     "year": "1992",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199208_seaIce_southernHemisphere_allMonths": {
@@ -11012,7 +11012,7 @@
     "monthlyMean": 17.84,
     "year": "1992",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199209_seaIce_southernHemisphere_allMonths": {
@@ -11021,7 +11021,7 @@
     "monthlyMean": 18.61,
     "year": "1992",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199210_seaIce_southernHemisphere_allMonths": {
@@ -11030,7 +11030,7 @@
     "monthlyMean": 18.23,
     "year": "1992",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199211_seaIce_southernHemisphere_allMonths": {
@@ -11039,7 +11039,7 @@
     "monthlyMean": 15.87,
     "year": "1992",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199212_seaIce_southernHemisphere_allMonths": {
@@ -11048,7 +11048,7 @@
     "monthlyMean": 10.4,
     "year": "1992",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199301_seaIce_southernHemisphere_allMonths": {
@@ -11057,7 +11057,7 @@
     "monthlyMean": 5.04,
     "year": "1993",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199302_seaIce_southernHemisphere_allMonths": {
@@ -11066,7 +11066,7 @@
     "monthlyMean": 3.09,
     "year": "1993",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199303_seaIce_southernHemisphere_allMonths": {
@@ -11075,7 +11075,7 @@
     "monthlyMean": 4.08,
     "year": "1993",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199304_seaIce_southernHemisphere_allMonths": {
@@ -11084,7 +11084,7 @@
     "monthlyMean": 6.95,
     "year": "1993",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199305_seaIce_southernHemisphere_allMonths": {
@@ -11093,7 +11093,7 @@
     "monthlyMean": 10.29,
     "year": "1993",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199306_seaIce_southernHemisphere_allMonths": {
@@ -11102,7 +11102,7 @@
     "monthlyMean": 13.46,
     "year": "1993",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199307_seaIce_southernHemisphere_allMonths": {
@@ -11111,7 +11111,7 @@
     "monthlyMean": 16.07,
     "year": "1993",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199308_seaIce_southernHemisphere_allMonths": {
@@ -11120,7 +11120,7 @@
     "monthlyMean": 17.84,
     "year": "1993",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199309_seaIce_southernHemisphere_allMonths": {
@@ -11129,7 +11129,7 @@
     "monthlyMean": 18.61,
     "year": "1993",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199310_seaIce_southernHemisphere_allMonths": {
@@ -11138,7 +11138,7 @@
     "monthlyMean": 18.23,
     "year": "1993",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199311_seaIce_southernHemisphere_allMonths": {
@@ -11147,7 +11147,7 @@
     "monthlyMean": 15.87,
     "year": "1993",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199312_seaIce_southernHemisphere_allMonths": {
@@ -11156,7 +11156,7 @@
     "monthlyMean": 10.4,
     "year": "1993",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199401_seaIce_southernHemisphere_allMonths": {
@@ -11165,7 +11165,7 @@
     "monthlyMean": 5.04,
     "year": "1994",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199402_seaIce_southernHemisphere_allMonths": {
@@ -11174,7 +11174,7 @@
     "monthlyMean": 3.09,
     "year": "1994",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199403_seaIce_southernHemisphere_allMonths": {
@@ -11183,7 +11183,7 @@
     "monthlyMean": 4.08,
     "year": "1994",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199404_seaIce_southernHemisphere_allMonths": {
@@ -11192,7 +11192,7 @@
     "monthlyMean": 6.95,
     "year": "1994",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199405_seaIce_southernHemisphere_allMonths": {
@@ -11201,7 +11201,7 @@
     "monthlyMean": 10.29,
     "year": "1994",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199406_seaIce_southernHemisphere_allMonths": {
@@ -11210,7 +11210,7 @@
     "monthlyMean": 13.46,
     "year": "1994",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199407_seaIce_southernHemisphere_allMonths": {
@@ -11219,7 +11219,7 @@
     "monthlyMean": 16.07,
     "year": "1994",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199408_seaIce_southernHemisphere_allMonths": {
@@ -11228,7 +11228,7 @@
     "monthlyMean": 17.84,
     "year": "1994",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199409_seaIce_southernHemisphere_allMonths": {
@@ -11237,7 +11237,7 @@
     "monthlyMean": 18.61,
     "year": "1994",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199410_seaIce_southernHemisphere_allMonths": {
@@ -11246,7 +11246,7 @@
     "monthlyMean": 18.23,
     "year": "1994",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199411_seaIce_southernHemisphere_allMonths": {
@@ -11255,7 +11255,7 @@
     "monthlyMean": 15.87,
     "year": "1994",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199412_seaIce_southernHemisphere_allMonths": {
@@ -11264,7 +11264,7 @@
     "monthlyMean": 10.4,
     "year": "1994",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199501_seaIce_southernHemisphere_allMonths": {
@@ -11273,7 +11273,7 @@
     "monthlyMean": 5.04,
     "year": "1995",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199502_seaIce_southernHemisphere_allMonths": {
@@ -11282,7 +11282,7 @@
     "monthlyMean": 3.09,
     "year": "1995",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199503_seaIce_southernHemisphere_allMonths": {
@@ -11291,7 +11291,7 @@
     "monthlyMean": 4.08,
     "year": "1995",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199504_seaIce_southernHemisphere_allMonths": {
@@ -11300,7 +11300,7 @@
     "monthlyMean": 6.95,
     "year": "1995",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199505_seaIce_southernHemisphere_allMonths": {
@@ -11309,7 +11309,7 @@
     "monthlyMean": 10.29,
     "year": "1995",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199506_seaIce_southernHemisphere_allMonths": {
@@ -11318,7 +11318,7 @@
     "monthlyMean": 13.46,
     "year": "1995",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199507_seaIce_southernHemisphere_allMonths": {
@@ -11327,7 +11327,7 @@
     "monthlyMean": 16.07,
     "year": "1995",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199508_seaIce_southernHemisphere_allMonths": {
@@ -11336,7 +11336,7 @@
     "monthlyMean": 17.84,
     "year": "1995",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199509_seaIce_southernHemisphere_allMonths": {
@@ -11345,7 +11345,7 @@
     "monthlyMean": 18.61,
     "year": "1995",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199510_seaIce_southernHemisphere_allMonths": {
@@ -11354,7 +11354,7 @@
     "monthlyMean": 18.23,
     "year": "1995",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199511_seaIce_southernHemisphere_allMonths": {
@@ -11363,7 +11363,7 @@
     "monthlyMean": 15.87,
     "year": "1995",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199512_seaIce_southernHemisphere_allMonths": {
@@ -11372,7 +11372,7 @@
     "monthlyMean": 10.4,
     "year": "1995",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199601_seaIce_southernHemisphere_allMonths": {
@@ -11381,7 +11381,7 @@
     "monthlyMean": 5.04,
     "year": "1996",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199602_seaIce_southernHemisphere_allMonths": {
@@ -11390,7 +11390,7 @@
     "monthlyMean": 3.09,
     "year": "1996",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199603_seaIce_southernHemisphere_allMonths": {
@@ -11399,7 +11399,7 @@
     "monthlyMean": 4.08,
     "year": "1996",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199604_seaIce_southernHemisphere_allMonths": {
@@ -11408,7 +11408,7 @@
     "monthlyMean": 6.95,
     "year": "1996",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199605_seaIce_southernHemisphere_allMonths": {
@@ -11417,7 +11417,7 @@
     "monthlyMean": 10.29,
     "year": "1996",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199606_seaIce_southernHemisphere_allMonths": {
@@ -11426,7 +11426,7 @@
     "monthlyMean": 13.46,
     "year": "1996",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199607_seaIce_southernHemisphere_allMonths": {
@@ -11435,7 +11435,7 @@
     "monthlyMean": 16.07,
     "year": "1996",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199608_seaIce_southernHemisphere_allMonths": {
@@ -11444,7 +11444,7 @@
     "monthlyMean": 17.84,
     "year": "1996",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199609_seaIce_southernHemisphere_allMonths": {
@@ -11453,7 +11453,7 @@
     "monthlyMean": 18.61,
     "year": "1996",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199610_seaIce_southernHemisphere_allMonths": {
@@ -11462,7 +11462,7 @@
     "monthlyMean": 18.23,
     "year": "1996",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199611_seaIce_southernHemisphere_allMonths": {
@@ -11471,7 +11471,7 @@
     "monthlyMean": 15.87,
     "year": "1996",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199612_seaIce_southernHemisphere_allMonths": {
@@ -11480,7 +11480,7 @@
     "monthlyMean": 10.4,
     "year": "1996",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199701_seaIce_southernHemisphere_allMonths": {
@@ -11489,7 +11489,7 @@
     "monthlyMean": 5.04,
     "year": "1997",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199702_seaIce_southernHemisphere_allMonths": {
@@ -11498,7 +11498,7 @@
     "monthlyMean": 3.09,
     "year": "1997",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199703_seaIce_southernHemisphere_allMonths": {
@@ -11507,7 +11507,7 @@
     "monthlyMean": 4.08,
     "year": "1997",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199704_seaIce_southernHemisphere_allMonths": {
@@ -11516,7 +11516,7 @@
     "monthlyMean": 6.95,
     "year": "1997",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199705_seaIce_southernHemisphere_allMonths": {
@@ -11525,7 +11525,7 @@
     "monthlyMean": 10.29,
     "year": "1997",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199706_seaIce_southernHemisphere_allMonths": {
@@ -11534,7 +11534,7 @@
     "monthlyMean": 13.46,
     "year": "1997",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199707_seaIce_southernHemisphere_allMonths": {
@@ -11543,7 +11543,7 @@
     "monthlyMean": 16.07,
     "year": "1997",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199708_seaIce_southernHemisphere_allMonths": {
@@ -11552,7 +11552,7 @@
     "monthlyMean": 17.84,
     "year": "1997",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199709_seaIce_southernHemisphere_allMonths": {
@@ -11561,7 +11561,7 @@
     "monthlyMean": 18.61,
     "year": "1997",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199710_seaIce_southernHemisphere_allMonths": {
@@ -11570,7 +11570,7 @@
     "monthlyMean": 18.23,
     "year": "1997",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199711_seaIce_southernHemisphere_allMonths": {
@@ -11579,7 +11579,7 @@
     "monthlyMean": 15.87,
     "year": "1997",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199712_seaIce_southernHemisphere_allMonths": {
@@ -11588,7 +11588,7 @@
     "monthlyMean": 10.4,
     "year": "1997",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199801_seaIce_southernHemisphere_allMonths": {
@@ -11597,7 +11597,7 @@
     "monthlyMean": 5.04,
     "year": "1998",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199802_seaIce_southernHemisphere_allMonths": {
@@ -11606,7 +11606,7 @@
     "monthlyMean": 3.09,
     "year": "1998",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199803_seaIce_southernHemisphere_allMonths": {
@@ -11615,7 +11615,7 @@
     "monthlyMean": 4.08,
     "year": "1998",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199804_seaIce_southernHemisphere_allMonths": {
@@ -11624,7 +11624,7 @@
     "monthlyMean": 6.95,
     "year": "1998",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199805_seaIce_southernHemisphere_allMonths": {
@@ -11633,7 +11633,7 @@
     "monthlyMean": 10.29,
     "year": "1998",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199806_seaIce_southernHemisphere_allMonths": {
@@ -11642,7 +11642,7 @@
     "monthlyMean": 13.46,
     "year": "1998",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199807_seaIce_southernHemisphere_allMonths": {
@@ -11651,7 +11651,7 @@
     "monthlyMean": 16.07,
     "year": "1998",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199808_seaIce_southernHemisphere_allMonths": {
@@ -11660,7 +11660,7 @@
     "monthlyMean": 17.84,
     "year": "1998",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199809_seaIce_southernHemisphere_allMonths": {
@@ -11669,7 +11669,7 @@
     "monthlyMean": 18.61,
     "year": "1998",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199810_seaIce_southernHemisphere_allMonths": {
@@ -11678,7 +11678,7 @@
     "monthlyMean": 18.23,
     "year": "1998",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199811_seaIce_southernHemisphere_allMonths": {
@@ -11687,7 +11687,7 @@
     "monthlyMean": 15.87,
     "year": "1998",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199812_seaIce_southernHemisphere_allMonths": {
@@ -11696,7 +11696,7 @@
     "monthlyMean": 10.4,
     "year": "1998",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199901_seaIce_southernHemisphere_allMonths": {
@@ -11705,7 +11705,7 @@
     "monthlyMean": 5.04,
     "year": "1999",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199902_seaIce_southernHemisphere_allMonths": {
@@ -11714,7 +11714,7 @@
     "monthlyMean": 3.09,
     "year": "1999",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199903_seaIce_southernHemisphere_allMonths": {
@@ -11723,7 +11723,7 @@
     "monthlyMean": 4.08,
     "year": "1999",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199904_seaIce_southernHemisphere_allMonths": {
@@ -11732,7 +11732,7 @@
     "monthlyMean": 6.95,
     "year": "1999",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199905_seaIce_southernHemisphere_allMonths": {
@@ -11741,7 +11741,7 @@
     "monthlyMean": 10.29,
     "year": "1999",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199906_seaIce_southernHemisphere_allMonths": {
@@ -11750,7 +11750,7 @@
     "monthlyMean": 13.46,
     "year": "1999",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199907_seaIce_southernHemisphere_allMonths": {
@@ -11759,7 +11759,7 @@
     "monthlyMean": 16.07,
     "year": "1999",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199908_seaIce_southernHemisphere_allMonths": {
@@ -11768,7 +11768,7 @@
     "monthlyMean": 17.84,
     "year": "1999",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199909_seaIce_southernHemisphere_allMonths": {
@@ -11777,7 +11777,7 @@
     "monthlyMean": 18.61,
     "year": "1999",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199910_seaIce_southernHemisphere_allMonths": {
@@ -11786,7 +11786,7 @@
     "monthlyMean": 18.23,
     "year": "1999",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199911_seaIce_southernHemisphere_allMonths": {
@@ -11795,7 +11795,7 @@
     "monthlyMean": 15.87,
     "year": "1999",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "199912_seaIce_southernHemisphere_allMonths": {
@@ -11804,7 +11804,7 @@
     "monthlyMean": 10.4,
     "year": "1999",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200001_seaIce_southernHemisphere_allMonths": {
@@ -11813,7 +11813,7 @@
     "monthlyMean": 5.04,
     "year": "2000",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200002_seaIce_southernHemisphere_allMonths": {
@@ -11822,7 +11822,7 @@
     "monthlyMean": 3.09,
     "year": "2000",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200003_seaIce_southernHemisphere_allMonths": {
@@ -11831,7 +11831,7 @@
     "monthlyMean": 4.08,
     "year": "2000",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200004_seaIce_southernHemisphere_allMonths": {
@@ -11840,7 +11840,7 @@
     "monthlyMean": 6.95,
     "year": "2000",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200005_seaIce_southernHemisphere_allMonths": {
@@ -11849,7 +11849,7 @@
     "monthlyMean": 10.29,
     "year": "2000",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200006_seaIce_southernHemisphere_allMonths": {
@@ -11858,7 +11858,7 @@
     "monthlyMean": 13.46,
     "year": "2000",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200007_seaIce_southernHemisphere_allMonths": {
@@ -11867,7 +11867,7 @@
     "monthlyMean": 16.07,
     "year": "2000",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200008_seaIce_southernHemisphere_allMonths": {
@@ -11876,7 +11876,7 @@
     "monthlyMean": 17.84,
     "year": "2000",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200009_seaIce_southernHemisphere_allMonths": {
@@ -11885,7 +11885,7 @@
     "monthlyMean": 18.61,
     "year": "2000",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200010_seaIce_southernHemisphere_allMonths": {
@@ -11894,7 +11894,7 @@
     "monthlyMean": 18.23,
     "year": "2000",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200011_seaIce_southernHemisphere_allMonths": {
@@ -11903,7 +11903,7 @@
     "monthlyMean": 15.87,
     "year": "2000",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200012_seaIce_southernHemisphere_allMonths": {
@@ -11912,7 +11912,7 @@
     "monthlyMean": 10.4,
     "year": "2000",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200101_seaIce_southernHemisphere_allMonths": {
@@ -11921,7 +11921,7 @@
     "monthlyMean": 5.04,
     "year": "2001",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200102_seaIce_southernHemisphere_allMonths": {
@@ -11930,7 +11930,7 @@
     "monthlyMean": 3.09,
     "year": "2001",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200103_seaIce_southernHemisphere_allMonths": {
@@ -11939,7 +11939,7 @@
     "monthlyMean": 4.08,
     "year": "2001",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200104_seaIce_southernHemisphere_allMonths": {
@@ -11948,7 +11948,7 @@
     "monthlyMean": 6.95,
     "year": "2001",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200105_seaIce_southernHemisphere_allMonths": {
@@ -11957,7 +11957,7 @@
     "monthlyMean": 10.29,
     "year": "2001",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200106_seaIce_southernHemisphere_allMonths": {
@@ -11966,7 +11966,7 @@
     "monthlyMean": 13.46,
     "year": "2001",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200107_seaIce_southernHemisphere_allMonths": {
@@ -11975,7 +11975,7 @@
     "monthlyMean": 16.07,
     "year": "2001",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200108_seaIce_southernHemisphere_allMonths": {
@@ -11984,7 +11984,7 @@
     "monthlyMean": 17.84,
     "year": "2001",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200109_seaIce_southernHemisphere_allMonths": {
@@ -11993,7 +11993,7 @@
     "monthlyMean": 18.61,
     "year": "2001",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200110_seaIce_southernHemisphere_allMonths": {
@@ -12002,7 +12002,7 @@
     "monthlyMean": 18.23,
     "year": "2001",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200111_seaIce_southernHemisphere_allMonths": {
@@ -12011,7 +12011,7 @@
     "monthlyMean": 15.87,
     "year": "2001",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200112_seaIce_southernHemisphere_allMonths": {
@@ -12020,7 +12020,7 @@
     "monthlyMean": 10.4,
     "year": "2001",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200201_seaIce_southernHemisphere_allMonths": {
@@ -12029,7 +12029,7 @@
     "monthlyMean": 5.04,
     "year": "2002",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200202_seaIce_southernHemisphere_allMonths": {
@@ -12038,7 +12038,7 @@
     "monthlyMean": 3.09,
     "year": "2002",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200203_seaIce_southernHemisphere_allMonths": {
@@ -12047,7 +12047,7 @@
     "monthlyMean": 4.08,
     "year": "2002",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200204_seaIce_southernHemisphere_allMonths": {
@@ -12056,7 +12056,7 @@
     "monthlyMean": 6.95,
     "year": "2002",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200205_seaIce_southernHemisphere_allMonths": {
@@ -12065,7 +12065,7 @@
     "monthlyMean": 10.29,
     "year": "2002",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200206_seaIce_southernHemisphere_allMonths": {
@@ -12074,7 +12074,7 @@
     "monthlyMean": 13.46,
     "year": "2002",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200207_seaIce_southernHemisphere_allMonths": {
@@ -12083,7 +12083,7 @@
     "monthlyMean": 16.07,
     "year": "2002",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200208_seaIce_southernHemisphere_allMonths": {
@@ -12092,7 +12092,7 @@
     "monthlyMean": 17.84,
     "year": "2002",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200209_seaIce_southernHemisphere_allMonths": {
@@ -12101,7 +12101,7 @@
     "monthlyMean": 18.61,
     "year": "2002",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200210_seaIce_southernHemisphere_allMonths": {
@@ -12110,7 +12110,7 @@
     "monthlyMean": 18.23,
     "year": "2002",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200211_seaIce_southernHemisphere_allMonths": {
@@ -12119,7 +12119,7 @@
     "monthlyMean": 15.87,
     "year": "2002",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200212_seaIce_southernHemisphere_allMonths": {
@@ -12128,7 +12128,7 @@
     "monthlyMean": 10.4,
     "year": "2002",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200301_seaIce_southernHemisphere_allMonths": {
@@ -12137,7 +12137,7 @@
     "monthlyMean": 5.04,
     "year": "2003",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200302_seaIce_southernHemisphere_allMonths": {
@@ -12146,7 +12146,7 @@
     "monthlyMean": 3.09,
     "year": "2003",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200303_seaIce_southernHemisphere_allMonths": {
@@ -12155,7 +12155,7 @@
     "monthlyMean": 4.08,
     "year": "2003",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200304_seaIce_southernHemisphere_allMonths": {
@@ -12164,7 +12164,7 @@
     "monthlyMean": 6.95,
     "year": "2003",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200305_seaIce_southernHemisphere_allMonths": {
@@ -12173,7 +12173,7 @@
     "monthlyMean": 10.29,
     "year": "2003",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200306_seaIce_southernHemisphere_allMonths": {
@@ -12182,7 +12182,7 @@
     "monthlyMean": 13.46,
     "year": "2003",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200307_seaIce_southernHemisphere_allMonths": {
@@ -12191,7 +12191,7 @@
     "monthlyMean": 16.07,
     "year": "2003",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200308_seaIce_southernHemisphere_allMonths": {
@@ -12200,7 +12200,7 @@
     "monthlyMean": 17.84,
     "year": "2003",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200309_seaIce_southernHemisphere_allMonths": {
@@ -12209,7 +12209,7 @@
     "monthlyMean": 18.61,
     "year": "2003",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200310_seaIce_southernHemisphere_allMonths": {
@@ -12218,7 +12218,7 @@
     "monthlyMean": 18.23,
     "year": "2003",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200311_seaIce_southernHemisphere_allMonths": {
@@ -12227,7 +12227,7 @@
     "monthlyMean": 15.87,
     "year": "2003",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200312_seaIce_southernHemisphere_allMonths": {
@@ -12236,7 +12236,7 @@
     "monthlyMean": 10.4,
     "year": "2003",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200401_seaIce_southernHemisphere_allMonths": {
@@ -12245,7 +12245,7 @@
     "monthlyMean": 5.04,
     "year": "2004",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200402_seaIce_southernHemisphere_allMonths": {
@@ -12254,7 +12254,7 @@
     "monthlyMean": 3.09,
     "year": "2004",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200403_seaIce_southernHemisphere_allMonths": {
@@ -12263,7 +12263,7 @@
     "monthlyMean": 4.08,
     "year": "2004",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200404_seaIce_southernHemisphere_allMonths": {
@@ -12272,7 +12272,7 @@
     "monthlyMean": 6.95,
     "year": "2004",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200405_seaIce_southernHemisphere_allMonths": {
@@ -12281,7 +12281,7 @@
     "monthlyMean": 10.29,
     "year": "2004",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200406_seaIce_southernHemisphere_allMonths": {
@@ -12290,7 +12290,7 @@
     "monthlyMean": 13.46,
     "year": "2004",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200407_seaIce_southernHemisphere_allMonths": {
@@ -12299,7 +12299,7 @@
     "monthlyMean": 16.07,
     "year": "2004",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200408_seaIce_southernHemisphere_allMonths": {
@@ -12308,7 +12308,7 @@
     "monthlyMean": 17.84,
     "year": "2004",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200409_seaIce_southernHemisphere_allMonths": {
@@ -12317,7 +12317,7 @@
     "monthlyMean": 18.61,
     "year": "2004",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200410_seaIce_southernHemisphere_allMonths": {
@@ -12326,7 +12326,7 @@
     "monthlyMean": 18.23,
     "year": "2004",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200411_seaIce_southernHemisphere_allMonths": {
@@ -12335,7 +12335,7 @@
     "monthlyMean": 15.87,
     "year": "2004",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200412_seaIce_southernHemisphere_allMonths": {
@@ -12344,7 +12344,7 @@
     "monthlyMean": 10.4,
     "year": "2004",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200501_seaIce_southernHemisphere_allMonths": {
@@ -12353,7 +12353,7 @@
     "monthlyMean": 5.04,
     "year": "2005",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200502_seaIce_southernHemisphere_allMonths": {
@@ -12362,7 +12362,7 @@
     "monthlyMean": 3.09,
     "year": "2005",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200503_seaIce_southernHemisphere_allMonths": {
@@ -12371,7 +12371,7 @@
     "monthlyMean": 4.08,
     "year": "2005",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200504_seaIce_southernHemisphere_allMonths": {
@@ -12380,7 +12380,7 @@
     "monthlyMean": 6.95,
     "year": "2005",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200505_seaIce_southernHemisphere_allMonths": {
@@ -12389,7 +12389,7 @@
     "monthlyMean": 10.29,
     "year": "2005",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200506_seaIce_southernHemisphere_allMonths": {
@@ -12398,7 +12398,7 @@
     "monthlyMean": 13.46,
     "year": "2005",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200507_seaIce_southernHemisphere_allMonths": {
@@ -12407,7 +12407,7 @@
     "monthlyMean": 16.07,
     "year": "2005",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200508_seaIce_southernHemisphere_allMonths": {
@@ -12416,7 +12416,7 @@
     "monthlyMean": 17.84,
     "year": "2005",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200509_seaIce_southernHemisphere_allMonths": {
@@ -12425,7 +12425,7 @@
     "monthlyMean": 18.61,
     "year": "2005",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200510_seaIce_southernHemisphere_allMonths": {
@@ -12434,7 +12434,7 @@
     "monthlyMean": 18.23,
     "year": "2005",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200511_seaIce_southernHemisphere_allMonths": {
@@ -12443,7 +12443,7 @@
     "monthlyMean": 15.87,
     "year": "2005",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200512_seaIce_southernHemisphere_allMonths": {
@@ -12452,7 +12452,7 @@
     "monthlyMean": 10.4,
     "year": "2005",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200601_seaIce_southernHemisphere_allMonths": {
@@ -12461,7 +12461,7 @@
     "monthlyMean": 5.04,
     "year": "2006",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200602_seaIce_southernHemisphere_allMonths": {
@@ -12470,7 +12470,7 @@
     "monthlyMean": 3.09,
     "year": "2006",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200603_seaIce_southernHemisphere_allMonths": {
@@ -12479,7 +12479,7 @@
     "monthlyMean": 4.08,
     "year": "2006",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200604_seaIce_southernHemisphere_allMonths": {
@@ -12488,7 +12488,7 @@
     "monthlyMean": 6.95,
     "year": "2006",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200605_seaIce_southernHemisphere_allMonths": {
@@ -12497,7 +12497,7 @@
     "monthlyMean": 10.29,
     "year": "2006",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200606_seaIce_southernHemisphere_allMonths": {
@@ -12506,7 +12506,7 @@
     "monthlyMean": 13.46,
     "year": "2006",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200607_seaIce_southernHemisphere_allMonths": {
@@ -12515,7 +12515,7 @@
     "monthlyMean": 16.07,
     "year": "2006",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200608_seaIce_southernHemisphere_allMonths": {
@@ -12524,7 +12524,7 @@
     "monthlyMean": 17.84,
     "year": "2006",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200609_seaIce_southernHemisphere_allMonths": {
@@ -12533,7 +12533,7 @@
     "monthlyMean": 18.61,
     "year": "2006",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200610_seaIce_southernHemisphere_allMonths": {
@@ -12542,7 +12542,7 @@
     "monthlyMean": 18.23,
     "year": "2006",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200611_seaIce_southernHemisphere_allMonths": {
@@ -12551,7 +12551,7 @@
     "monthlyMean": 15.87,
     "year": "2006",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200612_seaIce_southernHemisphere_allMonths": {
@@ -12560,7 +12560,7 @@
     "monthlyMean": 10.4,
     "year": "2006",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200701_seaIce_southernHemisphere_allMonths": {
@@ -12569,7 +12569,7 @@
     "monthlyMean": 5.04,
     "year": "2007",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200702_seaIce_southernHemisphere_allMonths": {
@@ -12578,7 +12578,7 @@
     "monthlyMean": 3.09,
     "year": "2007",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200703_seaIce_southernHemisphere_allMonths": {
@@ -12587,7 +12587,7 @@
     "monthlyMean": 4.08,
     "year": "2007",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200704_seaIce_southernHemisphere_allMonths": {
@@ -12596,7 +12596,7 @@
     "monthlyMean": 6.95,
     "year": "2007",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200705_seaIce_southernHemisphere_allMonths": {
@@ -12605,7 +12605,7 @@
     "monthlyMean": 10.29,
     "year": "2007",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200706_seaIce_southernHemisphere_allMonths": {
@@ -12614,7 +12614,7 @@
     "monthlyMean": 13.46,
     "year": "2007",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200707_seaIce_southernHemisphere_allMonths": {
@@ -12623,7 +12623,7 @@
     "monthlyMean": 16.07,
     "year": "2007",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200708_seaIce_southernHemisphere_allMonths": {
@@ -12632,7 +12632,7 @@
     "monthlyMean": 17.84,
     "year": "2007",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200709_seaIce_southernHemisphere_allMonths": {
@@ -12641,7 +12641,7 @@
     "monthlyMean": 18.61,
     "year": "2007",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200710_seaIce_southernHemisphere_allMonths": {
@@ -12650,7 +12650,7 @@
     "monthlyMean": 18.23,
     "year": "2007",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200711_seaIce_southernHemisphere_allMonths": {
@@ -12659,7 +12659,7 @@
     "monthlyMean": 15.87,
     "year": "2007",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200712_seaIce_southernHemisphere_allMonths": {
@@ -12668,7 +12668,7 @@
     "monthlyMean": 10.4,
     "year": "2007",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200801_seaIce_southernHemisphere_allMonths": {
@@ -12677,7 +12677,7 @@
     "monthlyMean": 5.04,
     "year": "2008",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200802_seaIce_southernHemisphere_allMonths": {
@@ -12686,7 +12686,7 @@
     "monthlyMean": 3.09,
     "year": "2008",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200803_seaIce_southernHemisphere_allMonths": {
@@ -12695,7 +12695,7 @@
     "monthlyMean": 4.08,
     "year": "2008",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200804_seaIce_southernHemisphere_allMonths": {
@@ -12704,7 +12704,7 @@
     "monthlyMean": 6.95,
     "year": "2008",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200805_seaIce_southernHemisphere_allMonths": {
@@ -12713,7 +12713,7 @@
     "monthlyMean": 10.29,
     "year": "2008",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200806_seaIce_southernHemisphere_allMonths": {
@@ -12722,7 +12722,7 @@
     "monthlyMean": 13.46,
     "year": "2008",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200807_seaIce_southernHemisphere_allMonths": {
@@ -12731,7 +12731,7 @@
     "monthlyMean": 16.07,
     "year": "2008",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200808_seaIce_southernHemisphere_allMonths": {
@@ -12740,7 +12740,7 @@
     "monthlyMean": 17.84,
     "year": "2008",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200809_seaIce_southernHemisphere_allMonths": {
@@ -12749,7 +12749,7 @@
     "monthlyMean": 18.61,
     "year": "2008",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200810_seaIce_southernHemisphere_allMonths": {
@@ -12758,7 +12758,7 @@
     "monthlyMean": 18.23,
     "year": "2008",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200811_seaIce_southernHemisphere_allMonths": {
@@ -12767,7 +12767,7 @@
     "monthlyMean": 15.87,
     "year": "2008",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200812_seaIce_southernHemisphere_allMonths": {
@@ -12776,7 +12776,7 @@
     "monthlyMean": 10.4,
     "year": "2008",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200901_seaIce_southernHemisphere_allMonths": {
@@ -12785,7 +12785,7 @@
     "monthlyMean": 5.04,
     "year": "2009",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200902_seaIce_southernHemisphere_allMonths": {
@@ -12794,7 +12794,7 @@
     "monthlyMean": 3.09,
     "year": "2009",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200903_seaIce_southernHemisphere_allMonths": {
@@ -12803,7 +12803,7 @@
     "monthlyMean": 4.08,
     "year": "2009",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200904_seaIce_southernHemisphere_allMonths": {
@@ -12812,7 +12812,7 @@
     "monthlyMean": 6.95,
     "year": "2009",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200905_seaIce_southernHemisphere_allMonths": {
@@ -12821,7 +12821,7 @@
     "monthlyMean": 10.29,
     "year": "2009",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200906_seaIce_southernHemisphere_allMonths": {
@@ -12830,7 +12830,7 @@
     "monthlyMean": 13.46,
     "year": "2009",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200907_seaIce_southernHemisphere_allMonths": {
@@ -12839,7 +12839,7 @@
     "monthlyMean": 16.07,
     "year": "2009",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200908_seaIce_southernHemisphere_allMonths": {
@@ -12848,7 +12848,7 @@
     "monthlyMean": 17.84,
     "year": "2009",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200909_seaIce_southernHemisphere_allMonths": {
@@ -12857,7 +12857,7 @@
     "monthlyMean": 18.61,
     "year": "2009",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200910_seaIce_southernHemisphere_allMonths": {
@@ -12866,7 +12866,7 @@
     "monthlyMean": 18.23,
     "year": "2009",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200911_seaIce_southernHemisphere_allMonths": {
@@ -12875,7 +12875,7 @@
     "monthlyMean": 15.87,
     "year": "2009",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "200912_seaIce_southernHemisphere_allMonths": {
@@ -12884,7 +12884,7 @@
     "monthlyMean": 10.4,
     "year": "2009",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201001_seaIce_southernHemisphere_allMonths": {
@@ -12893,7 +12893,7 @@
     "monthlyMean": 5.04,
     "year": "2010",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201002_seaIce_southernHemisphere_allMonths": {
@@ -12902,7 +12902,7 @@
     "monthlyMean": 3.09,
     "year": "2010",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201003_seaIce_southernHemisphere_allMonths": {
@@ -12911,7 +12911,7 @@
     "monthlyMean": 4.08,
     "year": "2010",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201004_seaIce_southernHemisphere_allMonths": {
@@ -12920,7 +12920,7 @@
     "monthlyMean": 6.95,
     "year": "2010",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201005_seaIce_southernHemisphere_allMonths": {
@@ -12929,7 +12929,7 @@
     "monthlyMean": 10.29,
     "year": "2010",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201006_seaIce_southernHemisphere_allMonths": {
@@ -12938,7 +12938,7 @@
     "monthlyMean": 13.46,
     "year": "2010",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201007_seaIce_southernHemisphere_allMonths": {
@@ -12947,7 +12947,7 @@
     "monthlyMean": 16.07,
     "year": "2010",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201008_seaIce_southernHemisphere_allMonths": {
@@ -12956,7 +12956,7 @@
     "monthlyMean": 17.84,
     "year": "2010",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201009_seaIce_southernHemisphere_allMonths": {
@@ -12965,7 +12965,7 @@
     "monthlyMean": 18.61,
     "year": "2010",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201010_seaIce_southernHemisphere_allMonths": {
@@ -12974,7 +12974,7 @@
     "monthlyMean": 18.23,
     "year": "2010",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201011_seaIce_southernHemisphere_allMonths": {
@@ -12983,7 +12983,7 @@
     "monthlyMean": 15.87,
     "year": "2010",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201012_seaIce_southernHemisphere_allMonths": {
@@ -12992,7 +12992,7 @@
     "monthlyMean": 10.4,
     "year": "2010",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201101_seaIce_southernHemisphere_allMonths": {
@@ -13001,7 +13001,7 @@
     "monthlyMean": 5.04,
     "year": "2011",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201102_seaIce_southernHemisphere_allMonths": {
@@ -13010,7 +13010,7 @@
     "monthlyMean": 3.09,
     "year": "2011",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201103_seaIce_southernHemisphere_allMonths": {
@@ -13019,7 +13019,7 @@
     "monthlyMean": 4.08,
     "year": "2011",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201104_seaIce_southernHemisphere_allMonths": {
@@ -13028,7 +13028,7 @@
     "monthlyMean": 6.95,
     "year": "2011",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201105_seaIce_southernHemisphere_allMonths": {
@@ -13037,7 +13037,7 @@
     "monthlyMean": 10.29,
     "year": "2011",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201106_seaIce_southernHemisphere_allMonths": {
@@ -13046,7 +13046,7 @@
     "monthlyMean": 13.46,
     "year": "2011",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201107_seaIce_southernHemisphere_allMonths": {
@@ -13055,7 +13055,7 @@
     "monthlyMean": 16.07,
     "year": "2011",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201108_seaIce_southernHemisphere_allMonths": {
@@ -13064,7 +13064,7 @@
     "monthlyMean": 17.84,
     "year": "2011",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201109_seaIce_southernHemisphere_allMonths": {
@@ -13073,7 +13073,7 @@
     "monthlyMean": 18.61,
     "year": "2011",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201110_seaIce_southernHemisphere_allMonths": {
@@ -13082,7 +13082,7 @@
     "monthlyMean": 18.23,
     "year": "2011",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201111_seaIce_southernHemisphere_allMonths": {
@@ -13091,7 +13091,7 @@
     "monthlyMean": 15.87,
     "year": "2011",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201112_seaIce_southernHemisphere_allMonths": {
@@ -13100,7 +13100,7 @@
     "monthlyMean": 10.4,
     "year": "2011",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201201_seaIce_southernHemisphere_allMonths": {
@@ -13109,7 +13109,7 @@
     "monthlyMean": 5.04,
     "year": "2012",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201202_seaIce_southernHemisphere_allMonths": {
@@ -13118,7 +13118,7 @@
     "monthlyMean": 3.09,
     "year": "2012",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201203_seaIce_southernHemisphere_allMonths": {
@@ -13127,7 +13127,7 @@
     "monthlyMean": 4.08,
     "year": "2012",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201204_seaIce_southernHemisphere_allMonths": {
@@ -13136,7 +13136,7 @@
     "monthlyMean": 6.95,
     "year": "2012",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201205_seaIce_southernHemisphere_allMonths": {
@@ -13145,7 +13145,7 @@
     "monthlyMean": 10.29,
     "year": "2012",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201206_seaIce_southernHemisphere_allMonths": {
@@ -13154,7 +13154,7 @@
     "monthlyMean": 13.46,
     "year": "2012",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201207_seaIce_southernHemisphere_allMonths": {
@@ -13163,7 +13163,7 @@
     "monthlyMean": 16.07,
     "year": "2012",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201208_seaIce_southernHemisphere_allMonths": {
@@ -13172,7 +13172,7 @@
     "monthlyMean": 17.84,
     "year": "2012",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201209_seaIce_southernHemisphere_allMonths": {
@@ -13181,7 +13181,7 @@
     "monthlyMean": 18.61,
     "year": "2012",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201210_seaIce_southernHemisphere_allMonths": {
@@ -13190,7 +13190,7 @@
     "monthlyMean": 18.23,
     "year": "2012",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201211_seaIce_southernHemisphere_allMonths": {
@@ -13199,7 +13199,7 @@
     "monthlyMean": 15.87,
     "year": "2012",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201212_seaIce_southernHemisphere_allMonths": {
@@ -13208,7 +13208,7 @@
     "monthlyMean": 10.4,
     "year": "2012",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201301_seaIce_southernHemisphere_allMonths": {
@@ -13217,7 +13217,7 @@
     "monthlyMean": 5.04,
     "year": "2013",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201302_seaIce_southernHemisphere_allMonths": {
@@ -13226,7 +13226,7 @@
     "monthlyMean": 3.09,
     "year": "2013",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201303_seaIce_southernHemisphere_allMonths": {
@@ -13235,7 +13235,7 @@
     "monthlyMean": 4.08,
     "year": "2013",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201304_seaIce_southernHemisphere_allMonths": {
@@ -13244,7 +13244,7 @@
     "monthlyMean": 6.95,
     "year": "2013",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201305_seaIce_southernHemisphere_allMonths": {
@@ -13253,7 +13253,7 @@
     "monthlyMean": 10.29,
     "year": "2013",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201306_seaIce_southernHemisphere_allMonths": {
@@ -13262,7 +13262,7 @@
     "monthlyMean": 13.46,
     "year": "2013",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201307_seaIce_southernHemisphere_allMonths": {
@@ -13271,7 +13271,7 @@
     "monthlyMean": 16.07,
     "year": "2013",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201308_seaIce_southernHemisphere_allMonths": {
@@ -13280,7 +13280,7 @@
     "monthlyMean": 17.84,
     "year": "2013",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201309_seaIce_southernHemisphere_allMonths": {
@@ -13289,7 +13289,7 @@
     "monthlyMean": 18.61,
     "year": "2013",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201310_seaIce_southernHemisphere_allMonths": {
@@ -13298,7 +13298,7 @@
     "monthlyMean": 18.23,
     "year": "2013",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201311_seaIce_southernHemisphere_allMonths": {
@@ -13307,7 +13307,7 @@
     "monthlyMean": 15.87,
     "year": "2013",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201312_seaIce_southernHemisphere_allMonths": {
@@ -13316,7 +13316,7 @@
     "monthlyMean": 10.4,
     "year": "2013",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201401_seaIce_southernHemisphere_allMonths": {
@@ -13325,7 +13325,7 @@
     "monthlyMean": 5.04,
     "year": "2014",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201402_seaIce_southernHemisphere_allMonths": {
@@ -13334,7 +13334,7 @@
     "monthlyMean": 3.09,
     "year": "2014",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201403_seaIce_southernHemisphere_allMonths": {
@@ -13343,7 +13343,7 @@
     "monthlyMean": 4.08,
     "year": "2014",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201404_seaIce_southernHemisphere_allMonths": {
@@ -13352,7 +13352,7 @@
     "monthlyMean": 6.95,
     "year": "2014",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201405_seaIce_southernHemisphere_allMonths": {
@@ -13361,7 +13361,7 @@
     "monthlyMean": 10.29,
     "year": "2014",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201406_seaIce_southernHemisphere_allMonths": {
@@ -13370,7 +13370,7 @@
     "monthlyMean": 13.46,
     "year": "2014",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201407_seaIce_southernHemisphere_allMonths": {
@@ -13379,7 +13379,7 @@
     "monthlyMean": 16.07,
     "year": "2014",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201408_seaIce_southernHemisphere_allMonths": {
@@ -13388,7 +13388,7 @@
     "monthlyMean": 17.84,
     "year": "2014",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201409_seaIce_southernHemisphere_allMonths": {
@@ -13397,7 +13397,7 @@
     "monthlyMean": 18.61,
     "year": "2014",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201410_seaIce_southernHemisphere_allMonths": {
@@ -13406,7 +13406,7 @@
     "monthlyMean": 18.23,
     "year": "2014",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201411_seaIce_southernHemisphere_allMonths": {
@@ -13415,7 +13415,7 @@
     "monthlyMean": 15.87,
     "year": "2014",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201412_seaIce_southernHemisphere_allMonths": {
@@ -13424,7 +13424,7 @@
     "monthlyMean": 10.4,
     "year": "2014",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201501_seaIce_southernHemisphere_allMonths": {
@@ -13433,7 +13433,7 @@
     "monthlyMean": 5.04,
     "year": "2015",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201502_seaIce_southernHemisphere_allMonths": {
@@ -13442,7 +13442,7 @@
     "monthlyMean": 3.09,
     "year": "2015",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201503_seaIce_southernHemisphere_allMonths": {
@@ -13451,7 +13451,7 @@
     "monthlyMean": 4.08,
     "year": "2015",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201504_seaIce_southernHemisphere_allMonths": {
@@ -13460,7 +13460,7 @@
     "monthlyMean": 6.95,
     "year": "2015",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201505_seaIce_southernHemisphere_allMonths": {
@@ -13469,7 +13469,7 @@
     "monthlyMean": 10.29,
     "year": "2015",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201506_seaIce_southernHemisphere_allMonths": {
@@ -13478,7 +13478,7 @@
     "monthlyMean": 13.46,
     "year": "2015",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201507_seaIce_southernHemisphere_allMonths": {
@@ -13487,7 +13487,7 @@
     "monthlyMean": 16.07,
     "year": "2015",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201508_seaIce_southernHemisphere_allMonths": {
@@ -13496,7 +13496,7 @@
     "monthlyMean": 17.84,
     "year": "2015",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201509_seaIce_southernHemisphere_allMonths": {
@@ -13505,7 +13505,7 @@
     "monthlyMean": 18.61,
     "year": "2015",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201510_seaIce_southernHemisphere_allMonths": {
@@ -13514,7 +13514,7 @@
     "monthlyMean": 18.23,
     "year": "2015",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201511_seaIce_southernHemisphere_allMonths": {
@@ -13523,7 +13523,7 @@
     "monthlyMean": 15.87,
     "year": "2015",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201512_seaIce_southernHemisphere_allMonths": {
@@ -13532,7 +13532,7 @@
     "monthlyMean": 10.4,
     "year": "2015",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201601_seaIce_southernHemisphere_allMonths": {
@@ -13541,7 +13541,7 @@
     "monthlyMean": 5.04,
     "year": "2016",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201602_seaIce_southernHemisphere_allMonths": {
@@ -13550,7 +13550,7 @@
     "monthlyMean": 3.09,
     "year": "2016",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201603_seaIce_southernHemisphere_allMonths": {
@@ -13559,7 +13559,7 @@
     "monthlyMean": 4.08,
     "year": "2016",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201604_seaIce_southernHemisphere_allMonths": {
@@ -13568,7 +13568,7 @@
     "monthlyMean": 6.95,
     "year": "2016",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201605_seaIce_southernHemisphere_allMonths": {
@@ -13577,7 +13577,7 @@
     "monthlyMean": 10.29,
     "year": "2016",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201606_seaIce_southernHemisphere_allMonths": {
@@ -13586,7 +13586,7 @@
     "monthlyMean": 13.46,
     "year": "2016",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201607_seaIce_southernHemisphere_allMonths": {
@@ -13595,7 +13595,7 @@
     "monthlyMean": 16.07,
     "year": "2016",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201608_seaIce_southernHemisphere_allMonths": {
@@ -13604,7 +13604,7 @@
     "monthlyMean": 17.84,
     "year": "2016",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201609_seaIce_southernHemisphere_allMonths": {
@@ -13613,7 +13613,7 @@
     "monthlyMean": 18.61,
     "year": "2016",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201610_seaIce_southernHemisphere_allMonths": {
@@ -13622,7 +13622,7 @@
     "monthlyMean": 18.23,
     "year": "2016",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201611_seaIce_southernHemisphere_allMonths": {
@@ -13631,7 +13631,7 @@
     "monthlyMean": 15.87,
     "year": "2016",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201612_seaIce_southernHemisphere_allMonths": {
@@ -13640,7 +13640,7 @@
     "monthlyMean": 10.4,
     "year": "2016",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201701_seaIce_southernHemisphere_allMonths": {
@@ -13649,7 +13649,7 @@
     "monthlyMean": 5.04,
     "year": "2017",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201702_seaIce_southernHemisphere_allMonths": {
@@ -13658,7 +13658,7 @@
     "monthlyMean": 3.09,
     "year": "2017",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201703_seaIce_southernHemisphere_allMonths": {
@@ -13667,7 +13667,7 @@
     "monthlyMean": 4.08,
     "year": "2017",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201704_seaIce_southernHemisphere_allMonths": {
@@ -13676,7 +13676,7 @@
     "monthlyMean": 6.95,
     "year": "2017",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201705_seaIce_southernHemisphere_allMonths": {
@@ -13685,7 +13685,7 @@
     "monthlyMean": 10.29,
     "year": "2017",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201706_seaIce_southernHemisphere_allMonths": {
@@ -13694,7 +13694,7 @@
     "monthlyMean": 13.46,
     "year": "2017",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201707_seaIce_southernHemisphere_allMonths": {
@@ -13703,7 +13703,7 @@
     "monthlyMean": 16.07,
     "year": "2017",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201708_seaIce_southernHemisphere_allMonths": {
@@ -13712,7 +13712,7 @@
     "monthlyMean": 17.84,
     "year": "2017",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201709_seaIce_southernHemisphere_allMonths": {
@@ -13721,7 +13721,7 @@
     "monthlyMean": 18.61,
     "year": "2017",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201710_seaIce_southernHemisphere_allMonths": {
@@ -13730,7 +13730,7 @@
     "monthlyMean": 18.23,
     "year": "2017",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201711_seaIce_southernHemisphere_allMonths": {
@@ -13739,7 +13739,7 @@
     "monthlyMean": 15.87,
     "year": "2017",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201712_seaIce_southernHemisphere_allMonths": {
@@ -13748,7 +13748,7 @@
     "monthlyMean": 10.4,
     "year": "2017",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201801_seaIce_southernHemisphere_allMonths": {
@@ -13757,7 +13757,7 @@
     "monthlyMean": 5.04,
     "year": "2018",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201802_seaIce_southernHemisphere_allMonths": {
@@ -13766,7 +13766,7 @@
     "monthlyMean": 3.09,
     "year": "2018",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201803_seaIce_southernHemisphere_allMonths": {
@@ -13775,7 +13775,7 @@
     "monthlyMean": 4.08,
     "year": "2018",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201804_seaIce_southernHemisphere_allMonths": {
@@ -13784,7 +13784,7 @@
     "monthlyMean": 6.95,
     "year": "2018",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201805_seaIce_southernHemisphere_allMonths": {
@@ -13793,7 +13793,7 @@
     "monthlyMean": 10.29,
     "year": "2018",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201806_seaIce_southernHemisphere_allMonths": {
@@ -13802,7 +13802,7 @@
     "monthlyMean": 13.46,
     "year": "2018",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201807_seaIce_southernHemisphere_allMonths": {
@@ -13811,7 +13811,7 @@
     "monthlyMean": 16.07,
     "year": "2018",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201808_seaIce_southernHemisphere_allMonths": {
@@ -13820,7 +13820,7 @@
     "monthlyMean": 17.84,
     "year": "2018",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201809_seaIce_southernHemisphere_allMonths": {
@@ -13829,7 +13829,7 @@
     "monthlyMean": 18.61,
     "year": "2018",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201810_seaIce_southernHemisphere_allMonths": {
@@ -13838,7 +13838,7 @@
     "monthlyMean": 18.23,
     "year": "2018",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201811_seaIce_southernHemisphere_allMonths": {
@@ -13847,7 +13847,7 @@
     "monthlyMean": 15.87,
     "year": "2018",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201812_seaIce_southernHemisphere_allMonths": {
@@ -13856,7 +13856,7 @@
     "monthlyMean": 10.4,
     "year": "2018",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201901_seaIce_southernHemisphere_allMonths": {
@@ -13865,7 +13865,7 @@
     "monthlyMean": 5.04,
     "year": "2019",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201902_seaIce_southernHemisphere_allMonths": {
@@ -13874,7 +13874,7 @@
     "monthlyMean": 3.09,
     "year": "2019",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201903_seaIce_southernHemisphere_allMonths": {
@@ -13883,7 +13883,7 @@
     "monthlyMean": 4.08,
     "year": "2019",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201904_seaIce_southernHemisphere_allMonths": {
@@ -13892,7 +13892,7 @@
     "monthlyMean": 6.95,
     "year": "2019",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201905_seaIce_southernHemisphere_allMonths": {
@@ -13901,7 +13901,7 @@
     "monthlyMean": 10.29,
     "year": "2019",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201906_seaIce_southernHemisphere_allMonths": {
@@ -13910,7 +13910,7 @@
     "monthlyMean": 13.46,
     "year": "2019",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201907_seaIce_southernHemisphere_allMonths": {
@@ -13919,7 +13919,7 @@
     "monthlyMean": 16.07,
     "year": "2019",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201908_seaIce_southernHemisphere_allMonths": {
@@ -13928,7 +13928,7 @@
     "monthlyMean": 17.84,
     "year": "2019",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201909_seaIce_southernHemisphere_allMonths": {
@@ -13937,7 +13937,7 @@
     "monthlyMean": 18.61,
     "year": "2019",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201910_seaIce_southernHemisphere_allMonths": {
@@ -13946,7 +13946,7 @@
     "monthlyMean": 18.23,
     "year": "2019",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201911_seaIce_southernHemisphere_allMonths": {
@@ -13955,7 +13955,7 @@
     "monthlyMean": 15.87,
     "year": "2019",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "201912_seaIce_southernHemisphere_allMonths": {
@@ -13964,7 +13964,7 @@
     "monthlyMean": 10.4,
     "year": "2019",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202001_seaIce_southernHemisphere_allMonths": {
@@ -13973,7 +13973,7 @@
     "monthlyMean": 5.04,
     "year": "2020",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202002_seaIce_southernHemisphere_allMonths": {
@@ -13982,7 +13982,7 @@
     "monthlyMean": 3.09,
     "year": "2020",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202003_seaIce_southernHemisphere_allMonths": {
@@ -13991,7 +13991,7 @@
     "monthlyMean": 4.08,
     "year": "2020",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202004_seaIce_southernHemisphere_allMonths": {
@@ -14000,7 +14000,7 @@
     "monthlyMean": 6.95,
     "year": "2020",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202005_seaIce_southernHemisphere_allMonths": {
@@ -14009,7 +14009,7 @@
     "monthlyMean": 10.29,
     "year": "2020",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202006_seaIce_southernHemisphere_allMonths": {
@@ -14018,7 +14018,7 @@
     "monthlyMean": 13.46,
     "year": "2020",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202007_seaIce_southernHemisphere_allMonths": {
@@ -14027,7 +14027,7 @@
     "monthlyMean": 16.07,
     "year": "2020",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202008_seaIce_southernHemisphere_allMonths": {
@@ -14036,7 +14036,7 @@
     "monthlyMean": 17.84,
     "year": "2020",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202009_seaIce_southernHemisphere_allMonths": {
@@ -14045,7 +14045,7 @@
     "monthlyMean": 18.61,
     "year": "2020",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202010_seaIce_southernHemisphere_allMonths": {
@@ -14054,7 +14054,7 @@
     "monthlyMean": 18.23,
     "year": "2020",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202011_seaIce_southernHemisphere_allMonths": {
@@ -14063,7 +14063,7 @@
     "monthlyMean": 15.87,
     "year": "2020",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202012_seaIce_southernHemisphere_allMonths": {
@@ -14072,7 +14072,7 @@
     "monthlyMean": 10.4,
     "year": "2020",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202101_seaIce_southernHemisphere_allMonths": {
@@ -14081,7 +14081,7 @@
     "monthlyMean": 5.04,
     "year": "2021",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202102_seaIce_southernHemisphere_allMonths": {
@@ -14090,7 +14090,7 @@
     "monthlyMean": 3.09,
     "year": "2021",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202103_seaIce_southernHemisphere_allMonths": {
@@ -14099,7 +14099,7 @@
     "monthlyMean": 4.08,
     "year": "2021",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202104_seaIce_southernHemisphere_allMonths": {
@@ -14108,7 +14108,7 @@
     "monthlyMean": 6.95,
     "year": "2021",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202105_seaIce_southernHemisphere_allMonths": {
@@ -14117,7 +14117,7 @@
     "monthlyMean": 10.29,
     "year": "2021",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202106_seaIce_southernHemisphere_allMonths": {
@@ -14126,7 +14126,7 @@
     "monthlyMean": 13.46,
     "year": "2021",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202107_seaIce_southernHemisphere_allMonths": {
@@ -14135,7 +14135,7 @@
     "monthlyMean": 16.07,
     "year": "2021",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202108_seaIce_southernHemisphere_allMonths": {
@@ -14144,7 +14144,7 @@
     "monthlyMean": 17.84,
     "year": "2021",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202109_seaIce_southernHemisphere_allMonths": {
@@ -14153,7 +14153,7 @@
     "monthlyMean": 18.61,
     "year": "2021",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202110_seaIce_southernHemisphere_allMonths": {
@@ -14162,7 +14162,7 @@
     "monthlyMean": 18.23,
     "year": "2021",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202111_seaIce_southernHemisphere_allMonths": {
@@ -14171,7 +14171,7 @@
     "monthlyMean": 15.87,
     "year": "2021",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202112_seaIce_southernHemisphere_allMonths": {
@@ -14180,7 +14180,7 @@
     "monthlyMean": 10.4,
     "year": "2021",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202201_seaIce_southernHemisphere_allMonths": {
@@ -14189,7 +14189,7 @@
     "monthlyMean": 5.04,
     "year": "2022",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202202_seaIce_southernHemisphere_allMonths": {
@@ -14198,7 +14198,7 @@
     "monthlyMean": 3.09,
     "year": "2022",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202203_seaIce_southernHemisphere_allMonths": {
@@ -14207,7 +14207,7 @@
     "monthlyMean": 4.08,
     "year": "2022",
     "month": "03",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202204_seaIce_southernHemisphere_allMonths": {
@@ -14216,7 +14216,7 @@
     "monthlyMean": 6.95,
     "year": "2022",
     "month": "04",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202205_seaIce_southernHemisphere_allMonths": {
@@ -14225,7 +14225,7 @@
     "monthlyMean": 10.29,
     "year": "2022",
     "month": "05",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202206_seaIce_southernHemisphere_allMonths": {
@@ -14234,7 +14234,7 @@
     "monthlyMean": 13.46,
     "year": "2022",
     "month": "06",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202207_seaIce_southernHemisphere_allMonths": {
@@ -14243,7 +14243,7 @@
     "monthlyMean": 16.07,
     "year": "2022",
     "month": "07",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202208_seaIce_southernHemisphere_allMonths": {
@@ -14252,7 +14252,7 @@
     "monthlyMean": 17.84,
     "year": "2022",
     "month": "08",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202209_seaIce_southernHemisphere_allMonths": {
@@ -14261,7 +14261,7 @@
     "monthlyMean": 18.61,
     "year": "2022",
     "month": "09",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202210_seaIce_southernHemisphere_allMonths": {
@@ -14270,7 +14270,7 @@
     "monthlyMean": 18.23,
     "year": "2022",
     "month": "10",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202211_seaIce_southernHemisphere_allMonths": {
@@ -14279,7 +14279,7 @@
     "monthlyMean": 15.87,
     "year": "2022",
     "month": "11",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202212_seaIce_southernHemisphere_allMonths": {
@@ -14288,7 +14288,7 @@
     "monthlyMean": 10.4,
     "year": "2022",
     "month": "12",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202301_seaIce_southernHemisphere_allMonths": {
@@ -14297,7 +14297,7 @@
     "monthlyMean": 5.04,
     "year": "2023",
     "month": "01",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "202302_seaIce_southernHemisphere_allMonths": {
@@ -14306,7 +14306,7 @@
     "monthlyMean": 3.09,
     "year": "2023",
     "month": "02",
-    "region": "northernHemisphere",
+    "region": "southernHemisphere",
     "climateIndicator": "seaIce"
   },
   "196611_snowCover_eurasia_allMonths": {
