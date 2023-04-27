@@ -35,17 +35,17 @@
             <div class="two-thirds-page-right">
 
                 <div id="bar-chart"></div>
-
-                <div class="selection-menu">
-                    <div id="month-dropdown" class="dropdown">
-                        <label for="month-select"></label>
-                        <select id="month-select"></select>
-                      </div>
-      
-                      <div id="climateIndicator-dropdown" class="dropdown">
-                        <label for="climateIndicator-select"></label>
-                        <select id="climateIndicator-select"></select>
-                      </div>
+                <div id="month-dropdown">
+                    <label for="month-select"></label>
+                    <select id="month-select"></select>
+                </div>
+                <div id="climateIndicator-dropdown">
+                    <label for="climateIndicator-select"></label>
+                    <select id="climateIndicator-select"></select>
+                </div>
+                <div id="region-dropdown">
+                    <label for="region-select"></label>
+                    <select id="region-select"></select>
                 </div>
     
             </div>
@@ -59,16 +59,27 @@
 
     <!-- Section 2 -->
     <section id="section2">
-        <div>
-            <!-- <h1>World Map</h1> -->
-            <img src="SVG/WorldMap.svg" width="2000px">
-        </div>
-
-        <div class="selection-menu">
-            <div id="month-dropdown" class="dropdown">
-                <label for="month-select"></label>
-                <select id="month-select"></select>
+        <div style="display: flex; align-content: center; flex-wrap: wrap;">
+            <div >Legend</div>
+            <svg id="legend" width="450" height="25" ></svg>
+            <div style="width: 100%; padding-top: 20px;">
+            <div class="map-heading">Snow cover by year</div>
+    
+            <div style="display: inline-block;">1967</div>
+            <div class="slider-container">
+                <input type="range" min="1967" max="2023" step="1" value="1990" class="slider" id="mySlider">
+                <div class="slider-value" id="sliderValue"></div>
             </div>
+            <div style="display: inline-block;">2023</div>
+        </div>
+        </div>
+        <div class="map-container">   
+            <object type="image/svg+xml" 
+                data="data/continents.svg"
+                id="map"
+                class="map-object"
+            >
+            </object>
         </div>
     </section>
 
@@ -123,9 +134,15 @@
 
   </div>
 
+<!-- All -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
+<!-- Barchart -->
 <script src="js/barchartTemplate.js"></script>
-<!-- <script src="js/lineChart.js"></script> -->
+<!-- Map -->
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="js/map.js"></script>
+
+<script src="js/lineChart.js"></script>
 
 </body>
 

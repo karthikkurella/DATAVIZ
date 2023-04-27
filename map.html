@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>D3 Project</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div style="display: flex; align-content: center; flex-wrap: wrap;">
+        <div >Legend</div>
+        <svg id="legend" width="450" height="25" ></svg>
+        <div style="width: 100%; padding-top: 20px;">
+        <div class="map-heading">Snow cover by year</div>
+
+        <div style="display: inline-block;">1967</div>
+        <div class="slider-container">
+            <input type="range" min="1967" max="2023" step="1" value="1990" class="slider" id="mySlider">
+            <div class="slider-value" id="sliderValue"></div>
+        </div>
+        <div style="display: inline-block;">2023</div>
+    </div>
+    </div>
+    <div class="map-container">   
+        <object type="image/svg+xml" 
+            data="data/continents.svg"
+            id="map"
+            class="map-object"
+        >
+        </object>
+    </div>
+  
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="js/map.js"></script>
+
+</body>
+</html>
