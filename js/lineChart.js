@@ -35,7 +35,7 @@ d3.json(pathToJsonData)
         'December'  : '12'
       }
 
-    const monthDropdown = d3.select('#month-select');
+    const monthDropdown = d3.select('#month-select2');
     monthDropdown.selectAll('option')
         .data(months)
         .enter()
@@ -61,7 +61,7 @@ d3.json(pathToJsonData)
     }
 
     // Select the dropdown element and populate it with months
-    const climateIndicatorDropdown = d3.select('#climateIndicator-select');
+    const climateIndicatorDropdown = d3.select('#climateIndicator-select2');
     climateIndicatorDropdown.selectAll('option')
         .data(climateIndicators)
         .enter()
@@ -85,7 +85,7 @@ d3.json(pathToJsonData)
         'Southern Hemisphere' : 'southernHemisphere'
     };
 
-    const regionDropdown = d3.select('#region-select');
+    const regionDropdown = d3.select('#region-select2');
     regionDropdown.selectAll('option')
         .data(regions)
         .enter()
@@ -187,25 +187,25 @@ d3.json(pathToJsonData)
     // this makes it so when the dropdown values change the graph is updated
     monthDropdown.on('change', function() {
         const selectedMonth = d3.select(this).property('value');
-        const selectedClimateIndicator = d3.select("#climateIndicator-select").property('value');
-        const selectedRegion = d3.select('#region-select').property('value');
+        const selectedClimateIndicator = d3.select("#climateIndicator-select2").property('value');
+        const selectedRegion = d3.select('#region-select2').property('value');
         updateLinechart(selectedMonth, selectedClimateIndicator, selectedRegion);
     });
 
     // Add an event listener to the climate indicator selector dropdown
     // this makes it so when the dropdown values change the graoh is updated
     climateIndicatorDropdown.on('change', function() {
-        const selectedMonth = d3.select('#month-select').property('value');
+        const selectedMonth = d3.select('#month-select2').property('value');
         const selectedClimateIndicator = d3.select(this).property('value');
-        const selectedRegion = d3.select('#region-select').property('value');
+        const selectedRegion = d3.select('#region-select2').property('value');
         updateLinechart(selectedMonth, selectedClimateIndicator, selectedRegion);
     });
 
     // Add an event listener to the climate indicator selector dropdown
     // this makes it so when the dropdown values change the graoh is updated
     regionDropdown.on('change', function() {
-        const selectedMonth = d3.select('#month-select').property('value');
-        const selectedClimateIndicator = d3.select("#climateIndicator-select").property('value');
+        const selectedMonth = d3.select('#month-select2').property('value');
+        const selectedClimateIndicator = d3.select("#climateIndicator-select2").property('value');
         const selectedRegion = d3.select(this).property('value');
         updateLinechart(selectedMonth, selectedClimateIndicator, selectedRegion);
     });
