@@ -173,8 +173,39 @@ d3.json(pathToJsonData)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+  // Append a new element to hold the y-axis label
+  const yAxisLabelElement = svg.append('g')
+    .attr('class', 'y-axis-label');
+
+  // Append text to y-axis label
+  const yAxisLabelText = yAxisLabelElement.append('text')
+    .attr('transform', 'rotate(-90)')
+    .attr('y', margin.left - 90)
+    .attr('x', -height / 2)
+    .attr('dy', '1em')
+    .text('Million Kilometers Squared');
+
+  // Append a new element to hold the title
+  const chartTitleElement = svg.append('g')
+    .attr('class', 'chart-title');
+
+  // Append text to chart title
+  const chartTitleText = chartTitleElement.append('text')
+    .attr('x', width / 2)
+    .attr('y', margin.top / 2)
+    .attr('text-anchor', 'middle')
+    .text(``); // default title text is nothing
+
+  // Define the function to update the chart title
+  // The title should include the region and climate indicator
+  function updateChartTitle(selectedRegion, selectedClimateIndicator) {
+    const newTitleText = `${selectedRegion} ${selectedClimateIndicator}`
+    chartTitleText.text(newTitleText);
+  }
+
   // Define the function to update the chart
   function updateChart(selectedMonth, selectedClimateIndicator, selectedRegion) {
+    updateChartTitle(selectedRegion, selectedClimateIndicator);
     monthValue = monthLabelToValue[selectedMonth];
     climateIndicatorValue = climateIndicatorLabelToValue[selectedClimateIndicator];
     regionValue = regionLabelToValue[selectedRegion];
