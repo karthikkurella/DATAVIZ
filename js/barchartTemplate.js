@@ -176,23 +176,30 @@
     const y = d3.scaleLinear()
       .range([height, 0]);
 
-    const svg = d3.select("#bar-chart").append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-      .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    const svg = d3.select('#bar-chart').append('svg')
+      .attr('width', width + margin.left + margin.right)
+      .attr('height', height + margin.top + margin.bottom)
+      .append('g')
+      .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
     // Append a new element to hold the y-axis label.
     const yAxisLabelElement = svg.append('g')
       .attr('class', 'y-axis-label');
 
     // Append text to y-axis label.
+    // The way the superscript was handled was really hacky.
     const yAxisLabelText = yAxisLabelElement.append('text')
       .attr('transform', 'rotate(-90)')
       .attr('y', margin.left - 90)
       .attr('x', -height / 2)
       .attr('dy', '1em')
-      .text('Million Kilometers Squared');
+      .text('km') // text before superscript
+      .append('tspan') // allow for a superscript
+      .attr('baseline-shift', 'super')
+      .text('2') // superscript text
+      .append('tspan') // go back to regular text
+      .attr('baseline-shift', 'sub')
+      .text(' in Millions'); // text after superscript
 
     // Append a new element to hold the title.
     const chartTitleElement = svg.append('g')
@@ -201,7 +208,7 @@
     // Append text to chart title.
     const chartTitleText = chartTitleElement.append('text')
       .attr('x', width / 2)
-      .attr('y', margin.top / 2)
+      .attr('y', 0)
       .attr('text-anchor', 'middle')
       .text(``); // default title text is nothing
 
@@ -228,11 +235,11 @@
       // Log the filtered data (useful for debugging).
       // console.log(filteredData);
 
-      // change the x and y domains to fit the new data.
+      // Change the x and y domains to fit the new data.
       x.domain(d3.extent(filteredData.map(d => d.date)));
       y.domain([0, d3.max(filteredData, d => d.value)]);
 
-      // replace all bars with the ones for the new data.
+      // Replace all bars with the ones for the new data.
       svg.selectAll('.bar').remove();
       svg.selectAll('.bar')
         .data(filteredData)
@@ -241,9 +248,34 @@
         .attr('x', d => x(d.date))
         .attr('width', width / filteredData.length)
         .attr('y', d => y(d.value))
-        .attr('height', d => height - y(d.value));
+        .attr('height', d => height - y(d.value))
+        // Add the events to show the value on hover.
+        .on('mouseover', function(event, d) {
+          // Add the background rectangle.
+          d3.select(this.parentNode)
+            .append('rect')
+            .attr('class', 'bar-tooltip-bg')
+            // These formulas center the rectangle and make it wide enough for the text
+            .attr('x', x(d.date) - .5 * width / filteredData.length)
+            .attr('width', 2 * width / filteredData.length)
+            .attr('y', y(d.value) - 20)
+            .attr('height', 20);
 
-      // replace all axis with the ones for the new data.
+          // Add the text.
+          d3.select(this.parentNode)
+            .append('text')
+            .attr('class', 'bar-tooltip-text')
+            .attr('x', x(d.date) + (width / filteredData.length) / 2)
+            .attr('y', y(d.value) - 5)
+            .attr('text-anchor', 'middle')
+            .text(d.value);
+        })
+        .on('mouseout', function() {
+          d3.selectAll('.bar-tooltip-bg').remove();
+          d3.selectAll('.bar-tooltip-text').remove();
+        });
+
+      // Replace all axis with the ones for the new data.
       svg.selectAll('.axis').remove();
       svg.append('g')
         .attr('class', 'axis axis-x')
