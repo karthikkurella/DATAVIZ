@@ -251,7 +251,7 @@
         .attr('height', d => height - y(d.value))
         // Add the events to show the value on hover.
         .on('mouseover', function(event, d) {
-          // Add the background rectangle.
+          // Add the tooltip background rectangle. This makes the tooltip text easier to read
           d3.select(this.parentNode)
             .append('rect')
             .attr('class', 'bar-tooltip-bg')
@@ -261,7 +261,7 @@
             .attr('y', y(d.value) - 20)
             .attr('height', 20);
 
-          // Add the text.
+          // Add the tooltip text.
           d3.select(this.parentNode)
             .append('text')
             .attr('class', 'bar-tooltip-text')
