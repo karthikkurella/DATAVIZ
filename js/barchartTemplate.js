@@ -155,15 +155,23 @@
     // Log the initial contents of the JSON file (useful for debugging).
     // console.log(contents);
 
+    // Convert the years to dates so that scaleTime can be used for the axis.
+    for(key in contents) {
+      contents[key].date = new Date(`${contents[key].year}-${contents[key].month}-01`);
+    }
+    // Log modifed contents of JSON file (useful for debugging).
+    // console.log(contents);
+
     // Create the svg chart container element.
     // This will hold the bars and axes for the barchart.
-    const margin = {top: 20, right: 20, bottom: 30, left: 50},
+    const margin = {top: 30, right: 50, bottom: 30, left: 50},
     width = 1200 - margin.left - margin.right,
     height = 775 - margin.top - margin.bottom;
 
-    const x = d3.scaleBand()
-      .range([0, width])
-      .padding(0.25);
+    // Set the range on the axis. Domain depends on data and is set when the data
+    // is loaded/changed. 
+    const x = d3.scaleTime()
+      .range([0, width]);
 
     const y = d3.scaleLinear()
       .range([height, 0]);
@@ -221,7 +229,7 @@
       // console.log(filteredData);
 
       // change the x and y domains to fit the new data.
-      x.domain(filteredData.map(d => d.year));
+      x.domain(d3.extent(filteredData.map(d => d.date)));
       y.domain([0, d3.max(filteredData, d => d.value)]);
 
       // replace all bars with the ones for the new data.
@@ -230,8 +238,8 @@
         .data(filteredData)
         .enter().append('rect')
         .attr('class', 'bar')
-        .attr('x', d => x(d.year))
-        .attr('width', x.bandwidth())
+        .attr('x', d => x(d.date))
+        .attr('width', width / filteredData.length)
         .attr('y', d => y(d.value))
         .attr('height', d => height - y(d.value));
 
@@ -240,7 +248,7 @@
       svg.append('g')
         .attr('class', 'axis axis-x')
         .attr('transform', 'translate(0,' + height + ')')
-        .call(d3.axisBottom(x));
+        .call(d3.axisBottom(x).tickFormat(d3.timeFormat('%Y')));
       svg.append('g')
         .attr('class', 'axis axis-y')
         .call(d3.axisLeft(y));
