@@ -76,13 +76,13 @@ d3.json(pathToJsonData)
         const filteredData2 = Object.values(contents).filter(d => {
             monthNum = monthNameToNum[selectedMonth];
             return d.month === monthNum && d.climateIndicator === 'seaIce' && d.region === "northernHemisphere"});
-            console.log(filteredData2);
+            //console.log(filteredData2);
 
-        console.log(filteredData1);
+        //console.log(filteredData1);
         x.domain(d3.extent(filteredData1, d => d.year));
         y.domain([0, d3.max(filteredData1, d => d.value)]);
 
-        console.log(filteredData2);
+        //console.log(filteredData2);
         x.domain(d3.extent(filteredData2, d => d.year));
         y.domain([0, d3.max(filteredData2, d => d.value)]);
 
