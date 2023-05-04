@@ -78,13 +78,11 @@ d3.json(pathToJsonData)
             return d.month === monthNum && d.climateIndicator === 'seaIce' && d.region === "northernHemisphere"});
             //console.log(filteredData2);
 
-        console.log(filteredData1);
+        // console.log(filteredData1);
         x.domain(d3.extent(filteredData1, d => d.year));
-        y.domain([0, d3.max(filteredData1, d => d.value)]);
-
-        //console.log(filteredData2);
-        x.domain(d3.extent(filteredData2, d => d.year));
-        y.domain([0, d3.max(filteredData2, d => d.value)]);
+        const max1 = d3.max(filteredData1, d => d.value)
+        const max2 = d3.max(filteredData2, d => d.value)
+        y.domain([0, d3.max([max1, max2])]);
 
         var createLine = d3.line()
             .x(d => x(d.year))
