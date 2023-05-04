@@ -35,7 +35,7 @@ d3.json(pathToJsonData)
         'December'  : '12'
       }
 
-    const monthDropdown = d3.select('#month-select2');
+    const monthDropdown = d3.select('#month-select');
     monthDropdown.selectAll('option')
         .data(months)
         .enter()
@@ -78,7 +78,7 @@ d3.json(pathToJsonData)
             return d.month === monthNum && d.climateIndicator === 'seaIce' && d.region === "northernHemisphere"});
             //console.log(filteredData2);
 
-        //console.log(filteredData1);
+        console.log(filteredData1);
         x.domain(d3.extent(filteredData1, d => d.year));
         y.domain([0, d3.max(filteredData1, d => d.value)]);
 
