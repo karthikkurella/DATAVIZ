@@ -45,6 +45,7 @@
         float: right;
     }
 
+
 /* Header */
 
     header {
@@ -52,7 +53,7 @@
         font-family: "bebas-neue", sans-serif;
         color: #2B4C7F;
         text-align: center;
-        padding: 200px;
+        /* padding: 200px; */
         padding-bottom: 50px;
     }
 
@@ -104,10 +105,11 @@
     #section1 {
         display: flex;
         align-items: center;
+        justify-content: space-evenly;
         /* background-color: rgb(168, 168, 168); */
-        padding: 300px;
+        /* padding: 300px; */
         padding-top: 100px;
-        padding-bottom: 200px;
+        /* padding-bottom: 200px; */
     }
 
         #section1 h1 {
@@ -122,7 +124,7 @@
 
         #section1 p {
             /* background-color: blue; */
-            padding-left: 200px;
+            /* padding-left: 200px; */
             padding-right: 100px;
             color: 2B4C7F;
             float: right;
@@ -134,7 +136,7 @@
 
     #section2 {
         /* background-color: orange; */
-        padding: 300px;
+        /* padding: 300px; */
         padding-top: 200px;
         display: flex;
         align-items: center;
@@ -150,7 +152,7 @@
 
     #section3 {
         /* background-color: pink; */
-        padding: 300px;
+        /* padding: 300px; */
         text-align: center;
     }
 
@@ -177,7 +179,7 @@
 
     #iceberg-slider {
         text-align: center;
-        padding: 200px;
+        /* padding: 200px; */
     }
 
 /* Labels */
