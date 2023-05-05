@@ -34,7 +34,7 @@
   }
 
   // Select the dropdown element and populate it with months.
-  const monthDropdown = d3.select('#month-select');
+  const monthDropdown = d3.select('#barchart-month-select');
   monthDropdown.selectAll('option')
     .data(monthLabels)
     .enter()
@@ -62,7 +62,7 @@
   }
 
   // Select the dropdown element and populate it with climate indicators.
-  const climateIndicatorDropdown = d3.select('#climateIndicator-select');
+  const climateIndicatorDropdown = d3.select('#barchart-climateIndicator-select');
   climateIndicatorDropdown.selectAll('option')
     .data(climateIndicatorLabels)
     .enter()
@@ -109,7 +109,7 @@
   // the dropdown as its value.
   function updateRegionDropdown() {
     // Get the value of the climate indicator dropdown.
-    const selectedClimateIndicator = d3.select('#climateIndicator-select').property('value');
+    const selectedClimateIndicator = d3.select('#barchart-climateIndicator-select').property('value');
     // Figure out which labels to use from that value.
     let regionLabels = seaIceRegionLabels; // use seaIceLabels by default
     if(selectedClimateIndicator == 'Sea Ice') {
@@ -119,7 +119,7 @@
     }
 
     // Select the region dropdown.
-    const regionDropdown = d3.select('#region-select');
+    const regionDropdown = d3.select('#barchart-region-select');
 
     // Remove existing labels.
     regionDropdown.selectAll('option').remove();
@@ -139,7 +139,7 @@
   }
 
   // Select the dropdown for easy access later in script.
-  const regionDropdown = d3.select('#region-select');
+  const regionDropdown = d3.select('#barchart-region-select');
 
   // Call the function to initialize the dropdown.
   updateRegionDropdown();
@@ -176,7 +176,7 @@
     const y = d3.scaleLinear()
       .range([height, 0]);
 
-    const svg = d3.select('#bar-chart').append('svg')
+    const svg = d3.select('#barchart').append('svg')
       .attr('width', width + margin.left + margin.right)
       .attr('height', height + margin.top + margin.bottom)
       .append('g')
@@ -295,8 +295,8 @@
     // This makes it so when the dropdown values change the graph is updated.
     monthDropdown.on('change', function() {
       const selectedMonth = d3.select(this).property('value');
-      const selectedClimateIndicator = d3.select('#climateIndicator-select').property('value');
-      const selectedRegion = d3.select('#region-select').property('value');
+      const selectedClimateIndicator = d3.select('#barchart-climateIndicator-select').property('value');
+      const selectedRegion = d3.select('#barchart-region-select').property('value');
       updateChart(selectedMonth, selectedClimateIndicator, selectedRegion);
     });
 
@@ -305,18 +305,18 @@
     // It also updates the values in the region dropdown. This is necessary because
     // the data we have has different regions for each climate indicator.
     climateIndicatorDropdown.on('change', function() {
-      const selectedMonth = d3.select('#month-select').property('value');
+      const selectedMonth = d3.select('#barchart-month-select').property('value');
       const selectedClimateIndicator = d3.select(this).property('value');
       updateRegionDropdown();
-      const selectedRegion = d3.select('#region-select').property('value');
+      const selectedRegion = d3.select('#barchart-region-select').property('value');
       updateChart(selectedMonth, selectedClimateIndicator, selectedRegion);
     });
 
     // Add an event listener to the region dropdown.
     // this makes it so when the dropdown values change the graph is updated.
     regionDropdown.on('change', function() {
-      const selectedMonth = d3.select('#month-select').property('value');
-      const selectedClimateIndicator = d3.select('#climateIndicator-select').property('value');
+      const selectedMonth = d3.select('#barchart-month-select').property('value');
+      const selectedClimateIndicator = d3.select('#barchart-climateIndicator-select').property('value');
       const selectedRegion = d3.select(this).property('value');
       updateChart(selectedMonth, selectedClimateIndicator, selectedRegion);
     });
