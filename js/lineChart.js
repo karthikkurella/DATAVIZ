@@ -135,6 +135,34 @@
                 .attr('class', 'axis axis-y')
                 .call(y_axis);
             }
+            // create legend
+            const legend = svg.append('g')
+            .attr('class', 'legend')
+            .attr('transform', 'translate(' + (width - 100) + ', 10)');
+
+            // add line1 legend
+            legend.append('rect')
+            .attr('x', 0)
+            .attr('y', 0)
+            .attr('width', 10)
+            .attr('height', 10)
+            .style('fill', 'black');
+            legend.append('text')
+            .attr('x', 15)
+            .attr('y', 10)
+            .text('snowCover');
+
+            // add line2 legend
+            legend.append('rect')
+            .attr('x', 0)
+            .attr('y', 20)
+            .attr('width', 10)
+            .attr('height', 10)
+            .style('fill', '#2B4C7F');
+            legend.append('text')
+            .attr('x', 15)
+            .attr('y', 30)
+            .text('seaIce');
 
         // Initialize the chart with the default month and indicator
         updateLinechart(monthDropdown.property('value'), );
