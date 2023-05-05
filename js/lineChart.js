@@ -50,9 +50,9 @@
         }
 
         // Create SVG container
-        const margin = {top: 20, right: 20, bottom: 30, left: 50},
+        const margin = {top: 20, right: 20, bottom: 30, left: 20},
         width = 960 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+        height = 400 - margin.top - margin.bottom;
 
         var x = d3.scaleLinear()
             .range([0, width]);
@@ -100,12 +100,12 @@
                 .enter().append('path')
                 .attr('class', 'line')
                 .attr('x', d => x(d.year))
-                .attr("stroke", "white")
+                .attr("stroke", "black")
                 .attr('stroke-width', "2")
                 .attr("fill", "none")
                 .attr("d", createLine(filteredData1))
 
-            svg.selectAll('.line')
+            svg.selectAll('.line2')
                 .data(filteredData2)
                 .enter().append('path')
                 .attr('class', 'line')
