@@ -85,7 +85,7 @@
             x.domain([minYear, maxYear]);
             const max1 = d3.max(filteredData1, d => d.value)
             const max2 = d3.max(filteredData2, d => d.value)
-            y.domain([0, d3.max([max1, max2])]);
+            y.domain([0, d3.max([max1, max2]) + 5]);
 
             const domainFilteredData1 = Object.values(filteredData1).filter(d => {
                 return d.year > minYear && d.year < maxYear;
