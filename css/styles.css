@@ -47,12 +47,12 @@ p {
 }
 
 /* LINE CHART STYLING */
-#line-chart-complex {
+#linechart-complex {
     margin: 0 auto;
     width: 27%;
 }
 
-#line-chart {
+#linechart {
     display: flex;
     justify-content: left;
 }
