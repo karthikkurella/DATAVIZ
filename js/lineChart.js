@@ -72,11 +72,11 @@
             // Get the new relevant data to plot based on new filter
             const filteredData1 = Object.values(contents).filter(d => {
                 monthNum = monthNameToNum[selectedMonth];
-                return d.month === monthNum && d.climateIndicator === 'snowCover' && d.region === "eurasia"});
+                return d.month === monthNum && d.climateIndicator === 'snowCover' && d.region === "eurasia" && d.value > 0;});
 
             const filteredData2 = Object.values(contents).filter(d => {
                 monthNum = monthNameToNum[selectedMonth];
-                return d.month === monthNum && d.climateIndicator === 'seaIce' && d.region === "northernHemisphere"});
+                return d.month === monthNum && d.climateIndicator === 'seaIce' && d.region === "northernHemisphere" && d.value > 0;});
                 //console.log(filteredData2);
 
             // console.log(filteredData1);
