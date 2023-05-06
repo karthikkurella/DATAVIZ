@@ -98,9 +98,9 @@
       const eurasiaValue=getAverage(eurasiaData);
       const northAmValue=getAverage(northAmData);
       
-      northAm.setAttribute('fill', myColor(northAmValue ? northAmValue : 5));
-      eurasia1.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue : 5));
-      eurasia2.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue: 5));
+      northAm.setAttribute('fill', myColor(northAmValue ? northAmValue:8));
+      eurasia1.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue : 8));
+      eurasia2.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue: 8));
     
       // console.log("africaData: ", africaData);
       // console.log("eurasiaData: ", eurasiaData);
