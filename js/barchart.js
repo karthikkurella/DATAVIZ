@@ -165,8 +165,8 @@
     // Create the svg chart container element.
     // This will hold the bars and axes for the barchart.
     const margin = {top: 30, right: 50, bottom: 30, left: 50},
-    width = 1200 - margin.left - margin.right,
-    height = 775 - margin.top - margin.bottom;
+    width = 900 - margin.left - margin.right,
+    height = 480 - margin.top - margin.bottom;
 
     // Set the range on the axis. Domain depends on data and is set when the data
     // is loaded/changed. 
