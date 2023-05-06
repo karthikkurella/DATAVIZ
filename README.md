@@ -19,7 +19,7 @@ Clone the following git repository.
 
 Github: https://github.com/karthikkurella/DATAVIZ
 
-Run the command:  git clone https://github.com/karthikkurella/DATAVIZ to download the source code and launch with the following steps.
+Run the command:  `git clone https://github.com/karthikkurella/DATAVIZ` to download the source code and launch with the following steps.
 
 - Open the project in the vscode:
 - Launch the localhost with a desired port[5050] or use an extension Golive in vscode to open the code on the browser.
