@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style_v2.css">
+    <!-- <link rel="stylesheet" href="css/barchart_styles.css"> -->
+    <link rel="stylesheet" href="https://use.typekit.net/dfw3stf.css">
+    <title>Document</title>
+</head>
+<body> 
+    <div class="container">
+
+        <!-- Left Margin -->
+        <div id="margin-left"></div>
+
+        <!-- Header -->
+        <header>
+            <h1>Climate Change</h1>
+            <h2>A Data Visualization Story</h2>
+            <nav>
+              <ul>
+                <li><a href="#section1">Bar Chart</a></li>
+                <li><a href="#section2">Map</a></li>
+                <li><a href="#section3">Line Chart</a></li>
+              </ul>
+            </nav>
+        </header>
+
+        <!-- Bar Chart -->
+        <div id="title1">Change in Global Sea Ice (1979-2023)</div>
+        <div id="content1">
+            <div id="barchart"></div>
+            <div id="barchart-month-dropdown">
+              <label for="barchart-month-select"></label>
+              <select id="barchart-month-select"></select>
+            </div>
+            <div id="barchart-climateIndicator-dropdown">
+              <label for="barchart-climateIndicator-select"></label>
+              <select id="barchart-climateIndicator-select"></select>
+            </div>
+            <div id="barchart-region-dropdown">
+              <label for="barchart-region-select"></label>
+              <select id="barchart-region-select"></select>
+            </div>
+        </div>
+
+        <div id="content2">
+            <p>Climate change is one of the most significant threats to life and the environment. Extreme weather events have caused extensive damage to life and property all over the world. Researchers have since long used the rate of glacial melting to predict environmental hazards such as rising sea levels and hurricanes. <br><br>Our goal for this project is to visualize data on sea ice and snow cover. We hope that visualizing this data will help convey the impact of climate change in a way that is easy to understand by researchers as well as the general public.</p>
+        </div>
+
+        <!-- Map -->
+        <div id="title2">Snow Cover (1979-2023)</div>
+        <div id="content3">
+            <div class="map-container">   
+                <object type="image/svg+xml" data="data/continents.svg" id="map" class="map-object" width="1000px"></object>
+            </div>
+        </div>
+        
+        <div id="content4">
+            <div>
+                <div>Million km squared &nbsp;</div>
+                <svg id="legend" width="450" height="50" ></svg>
+                <div>
+                    <div style="display: inline-block;">1967</div>
+                    <div class="slider-container">
+                        <input type="range" min="1967" max="2023" step="1" value="1990" class="slider" id="mySlider">
+                        <div class="slider-value" id="sliderValue"></div>
+                    </div>
+                    <div style="display: inline-block;">2023</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Line Chart -->
+        <div id="title3">Sea Ice vs. Snow Cover (1979-2023)</div>
+        <div id="content5">
+            <div id="linechart"></div>
+
+            <div id="linechart-dropdown-menu">
+                <div id="linechart-dropdown"></div> <!-- "dropdown" should be a class, not an id -->
+            </div>
+        </div>
+
+        <div id="content6">
+            <div id="linechart-month-dropdown" class="dropdown">
+                <label for="linechart-month-select"></label>
+                <select id="linechart-month-select"></select>
+            </div>
+        </div>
+
+
+        <!-- Footer -->
+        <footer>
+            <img src="SVG/logo-black.svg" width="200">
+        </footer>
+
+        <!-- Right Margin -->
+        <div id="margin-right"></div>
+    </div>  
+    
+    <!-- Barchart JS -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="js/lineChart.js"></script>
+    <script src="js/barchart.js"></script>
+    <script src="js/map.js"></script>
+</body>
+</html>

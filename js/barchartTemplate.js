@@ -155,11 +155,26 @@
     // Print the initial contents of the JSON file to the console
     // console.log(contents);
 
+<<<<<<< Updated upstream:js/barchartTemplate.js
     // Create the svg chart container element
     // This will hold the bars and axes for the barchart
     const margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = 1200 - margin.left - margin.right,
     height = 775 - margin.top - margin.bottom;
+=======
+    // Convert the years to dates so that scaleTime can be used for the axis.
+    for(key in contents) {
+      contents[key].date = new Date(`${contents[key].year}-${contents[key].month}-01`);
+    }
+    // Log modifed contents of JSON file (useful for debugging).
+    // console.log(contents);
+
+    // Create the svg chart container element.
+    // This will hold the bars and axes for the barchart.
+    const margin = {top: 30, right: 50, bottom: 30, left: 50},
+    width = 800 - margin.left - margin.right,
+    height = 450 - margin.top - margin.bottom;
+>>>>>>> Stashed changes:js/barchart.js
 
     const x = d3.scaleBand()
       .range([0, width])
