@@ -7,31 +7,22 @@
   .then(contents => {
   //   Print the initial contents of the JSON file to the console
   //   console.log(contents);
-      
-    function generateYears (){
-      var dataset = [];                        
-      for (var i = 1967; i < 2024; i++) {            
-      dataset.push((i).toString());             
-      }
-      return dataset;
-    }
 
-    function getAverage(data){
-      var sum=0;
-      data.forEach(element => {
+  function getAverage(data){
+    let sum=0;
+    data.forEach(element => {
+        sum += element.value;
+    });
+    return sum / data.length;
+  }
 
-          sum+=element.value;
-      });
-      return sum/data.length;
-    }
-    // window.addEventListener("load", function() {
-      const mapObject = document.getElementById('map').contentDocument;
-      const map = mapObject.getElementById('external-1');
-      const northAm=mapObject.getElementById('northAmerica');
-      // console.log(northAm);
-      const eurasia1=mapObject.getElementById('eurasia');
-      const eurasia2=mapObject.getElementById('eurasia2');
-    // });   
+  // Get some page elements
+  const mapObject = document.getElementById('map').contentDocument;
+  const map = mapObject.getElementById('external-1');
+  const northAm=mapObject.getElementById('northAmerica');
+  // console.log(northAm);
+  const eurasia1=mapObject.getElementById('eurasia');
+  const eurasia2=mapObject.getElementById('eurasia2');
 
   // Get the slider and value elements
   const slider = document.getElementById("mySlider");
@@ -43,17 +34,17 @@
   sliderValue.style.left = `calc(${initialPosition}% )`;
     
       function drawScale(id, interpolator) {
-        var data = Array.from(Array(100).keys());
+        const data = Array.from(Array(100).keys());
     
-        var cScale = d3.scaleSequential()
+        const cScale = d3.scaleSequential()
             .interpolator(interpolator)
             .domain([0,99]);
     
-        var xScale = d3.scaleLinear()
+        const xScale = d3.scaleLinear()
             .domain([0,99])
             .range([0, 580]);
     
-        var u = d3.select("#" + id)
+        const u = d3.select("#" + id)
             .selectAll("rect")
             .data(data)
             .enter()
@@ -72,8 +63,23 @@
     
       drawScale("legend", d3.interpolateBlues);
 
-      var svg = d3.select(".spectrum").append("svg").attr("width", 300);
-      var myColor = d3.scaleSequential().domain([0,25])
+      const legend = d3.select("#legend");
+
+      // Append a text element for "0" at the beginning of the legend
+      legend.append("text")
+            .attr("x", 0)
+            .attr("y", 40)
+            .text("0");
+
+      // Append a text element for "25" at the end of the legend
+      legend.append("text")
+            .attr("x", 430)
+            .attr("y", 40)
+            .text("25");
+
+      const svg = d3.select(".spectrum").append("svg").attr("width", 300).attr("height", 50);
+      // 0 - 25 is the domain of the data values
+      const myColor = d3.scaleSequential().domain([0,25])
       .interpolator(d3.interpolateBlues);
     
     // Define the function to update the map
@@ -92,9 +98,9 @@
       const eurasiaValue=getAverage(eurasiaData);
       const northAmValue=getAverage(northAmData);
       
-      northAm.setAttribute('fill', myColor(northAmValue ? northAmValue:5));
-      eurasia1.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue : 5));
-      eurasia2.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue: 5));
+      northAm.setAttribute('fill', myColor(northAmValue ? northAmValue:8));
+      eurasia1.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue : 8));
+      eurasia2.setAttribute('fill', myColor(eurasiaValue ? eurasiaValue: 8));
     
       // console.log("africaData: ", africaData);
       // console.log("eurasiaData: ", eurasiaData);
@@ -103,7 +109,7 @@
       // console.log("eurasiaValue: ", eurasiaValue);
       // console.log("northAmValue: ", northAmValue);
       // console.log("northAm: ", northAmData);
-      }
+    }
 
     updateMap(sliderValue);
 
