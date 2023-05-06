@@ -57,69 +57,6 @@ p {
     justify-content: left;
 }
 
-#btnPrevious {
-    float:left;
-}
-
-#spanStage {
-    font-weight:bold;
-    vertical-align:middle;    
-}
-#btnNext {
-    float:right;
-}
-
-.dropdown {
-    display: flex;
-    /* justify-content: left; */
-    padding-top: 20px;
-    padding-left: 40px;
-}
-
-/* DROPDOWN BUTTON STYLING */
-.dropdown select {
-    padding: 10px;
-    border-radius: 15px;
-    border: 1px solid #ccc;
-    /* width: 200px; */
-    font-size: 16px;
-    color: #555;
-    appearance: none; /* Remove default appearance of select element */
-    background-color: #fff;
-    background-repeat: no-repeat;
-    /* background-position: right center; */
-}
-
-.dropdown select:hover {
-    background-color: #3F6AAC;
-    color: white;
-}
-
-/* .dropdown:hover {
-    background-color: #3F6AAC;
-    color: white;
-} */
-
-/* Style the dropdown options */
-.dropdown option {
-    background-color: #fff;
-    color: #555;
-    font-size: 16px;
-}
-
-/* Style the hover effect for dropdown options */
-/* .dropdown option:hover {
-    background-color: #3F6AAC;
-    color: white;
-} */
-  
-/* .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-} */
-
 /* BAR CHART STYLING */
 .bar {
     fill: #3F6AAC;
