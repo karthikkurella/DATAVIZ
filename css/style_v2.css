@@ -22,7 +22,7 @@ body {
         50px /* Title 1 */
         575px /* Content 1 & 2 */
         50px /* Title 2 */
-        500px /* Content 3 & 4 */
+        350px /* Content 3 & 4 */
         50px /* Title 3 - Line Chart */
         500px /* Content 5 & 6 */
         300px; /* Footer */
@@ -324,11 +324,48 @@ footer {
 @media only screen and (max-width:1500px) {
     .container {
         grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 
+            350px /* Header */
+            50px /* Title 1 */
+            575px /* Content 1 */
+            200px /* Content 2 */
+            50px /* Title 2 */
+            300px /* Content 3 */
+            200px /* Content 4 */
+            50px /* Title 3 */
+            400px /* Content 5 */
+            50px /* Content 6 */
+            200px; /* Footer */
+            
         grid-template-areas: 
             "header"
+            "title1"
             "content1"
             "content2"
+            "title2"
+            "content3"
+            "content4"
+            "title3"
+            "content5"
+            "content6"
             "footer";
+    }
+
+    #content1 {
+        text-align: center;
+    }
+
+    #content2 {
+        padding-top: 0px;
+    }
+
+    #content4 {
+        text-align: center;
+    }
+
+    #content6 {
+        display: flex;
+        text-align: center;
+        justify-content: center;
     }
 }
