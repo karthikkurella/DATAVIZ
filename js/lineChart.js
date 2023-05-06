@@ -54,7 +54,7 @@
         width = 960 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
 
-        var x = d3.scaleLinear()
+        const x = d3.scaleTime()
             .range([0, width]);
 
         var y = d3.scaleLinear()
@@ -66,6 +66,10 @@
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        
+        for(key in contents) {
+            contents[key].date = new Date(`${contents[key].year}-${contents[key].month}-01`);
+        }
 
         // Define the function to update the chart
         function updateLinechart(selectedMonth) {
@@ -80,26 +84,26 @@
                 //console.log(filteredData2);
 
             // console.log(filteredData1);
-            const maxYear = d3.min([d3.max(filteredData1, d => d.year), d3.max(filteredData2, d => d.year)]);
-            const minYear = d3.max([d3.min(filteredData1, d => d.year), d3.min(filteredData2, d => d.year)]);
+            const maxYear = d3.min([d3.max(filteredData1, d => d.date), d3.max(filteredData2, d => d.date)]);
+            const minYear = d3.max([d3.min(filteredData1, d => d.date), d3.min(filteredData2, d => d.date)]);
             x.domain([minYear, maxYear]);
             const max1 = d3.max(filteredData1, d => d.value)
             const max2 = d3.max(filteredData2, d => d.value)
             y.domain([0, d3.max([max1, max2]) + 5]);
 
             const domainFilteredData1 = Object.values(filteredData1).filter(d => {
-                return d.year > minYear && d.year < maxYear;
+                return d.date > minYear && d.date < maxYear;
             });
 
             const domainFilteredData2 = Object.values(filteredData2).filter(d => {
-                return d.year > minYear && d.year < maxYear;
+                return d.date > minYear && d.date < maxYear;
             });
 
             var createLine = d3.line()
-                .x(d => x(d.year))
+                .x(d => x(d.date))
                 .y(d => y(d.value));
 
-            var x_axis = d3.axisBottom().scale(x);
+            var x_axis = d3.axisBottom(x).tickFormat(d3.timeFormat('%Y'));
 
             var y_axis = d3.axisLeft().scale(y);
 
@@ -109,7 +113,7 @@
                 .data(domainFilteredData1)
                 .enter().append('path')
                 .attr('class', 'line')
-                .attr('x', d => x(d.year))
+                .attr('x', d => x(d.date))
                 .attr("stroke", "black")
                 .attr('stroke-width', "2")
                 .attr("fill", "none")
@@ -119,7 +123,7 @@
                 .data(domainFilteredData2)
                 .enter().append('path')
                 .attr('class', 'line')
-                .attr('x', d => x(d.year))
+                .attr('x', d => x(d.date))
                 .attr("stroke", "#2B4C7F")
                 .attr('stroke-width', "1")
                 .attr("fill", "none")
