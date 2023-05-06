@@ -73,7 +73,7 @@
 
       // Append a text element for "25" at the end of the legend
       legend.append("text")
-            .attr("x", 430)
+            .attr("x", 425)
             .attr("y", 40)
             .text("25");
 
